@@ -2,19 +2,19 @@
 = Publications
 
 == Journal Publications and Preprints
-. *Y. Bu*,  J. Lu, V. V. Veeravalli. "Active and Adaptive Sequential learning", submitted to IEEE Transactions on Information Theory,, 2019
-. *Y. Bu*, S. Zou, V. V. Veeravalli. Tightening Mutual Information Based Bounds on Generalization Error, submitted to IEEE Journal on Selected Areas in Information Theory, Oct. 2019.
-. C. Wilson, *Y. Bu*, V. V. Veeravalli. [https://arxiv.org/abs/1904.02773 "Adaptive Sequential Machine Learning"], appear in, Sequential Analysis, Oct. 2019.
-. *Y. Bu*, S. Zou, V. V. Veeravalli. [Journal/Linear_test.pdf "Linear-Complexity Exponentially-Consistent Tests for Universal Outlying Sequence Detection"], IEEE Transactions on Signal Processing, vol. 67, no. 8, pp. 2115-2128, April 2019. 
-. *Y. Bu*, S. Zou, Y. Liang, V. V. Veeravalli. [Journal/Minimax_KL.pdf "Estimation of KL Divergence: Optimal Minimax Rate"], IEEE Transactions on Information Theory, vol. 64, no. 4, pp. 2648-2674, April 2018 \n
+. *Y. Bu*,  J. Lu, V. V. Veeravalli. "Active and Adaptive Sequential learning", submitted to IEEE Transactions on Information Theory, 2020.
+. *Y. Bu*, S. Zou, V. V. Veeravalli. [Journal/Gen_bound.pdf "Tightening Mutual Information Based Bounds on Generalization Error"], IEEE Journal on Selected Areas in Information Theory, vol. 1, pp. 121 - 130, May 2020.
+. C. Wilson, *Y. Bu*, V. V. Veeravalli. [Journal/Adaptive_sequential_learning.pdf "Adaptive Sequential Machine Learning"], Sequential Analysis, vol. 38, no. 4, Oct. 2019.
+. *Y. Bu*, S. Zou, V. V. Veeravalli. [Journal/Linear_test.pdf "Linear-Complexity Exponentially-Consistent Tests for Universal Outlying Sequence Detection"], IEEE Transactions on Signal Processing, vol. 67, no. 8, pp. 2115-2128, Apr. 2019. 
+. *Y. Bu*, S. Zou, Y. Liang, V. V. Veeravalli. [Journal/Minimax_KL.pdf "Estimation of KL Divergence: Optimal Minimax Rate"], IEEE Transactions on Information Theory, vol. 64, no. 4, pp. 2648-2674, Apr. 2018 \n
 Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *Github*]
 
 == Conference Publications
-. *Y. Bu*, W. Gao, S. Zou, V. V. Veeravalli. [https://arxiv.org/abs/1901.09421 "Information-theoretic Understanding of Population Risk Improvement with Model Compression"], to appear in, AAAI Conference on Artificial Intelligence (AAAI) (*acceptance rate: 20.6%*), New York, Feb. 2020
-. *Y. Bu*,  K. Small. [https://arxiv.org/abs/1811.12591 "Active Learning in Recommendation Systems with Multi-level User Preferences"], to appear in, AAAI Workshop on Interactive and Conversational Recommendation Systems (WICRS), New York, Feb. 2020
-. *Y. Bu*,  J. Lu, V. V. Veeravalli. [https://arxiv.org/abs/1805.11710 "Active and Adaptive Sequential learning"], Proc. IEEE Asilomar Conference on Signals, Systems, and Computers, Pacic Grove, CA, Nov. 2019
-. *Y. Bu*, S. Zou, V. V. Veeravalli. [https://arxiv.org/abs/1901.04609 "Tightening Mutual Information Based Bounds on Generalization Error"], Proc. IEEE International Symposium on Information Theory (ISIT), Paris, France, Jul. 2019
+. *Y. Bu*, W. Gao, S. Zou, V. V. Veeravalli. [Conference/AAAI_2020.pdf "Information-theoretic Understanding of Population Risk Improvement with Model Compression"], Proc. AAAI Conference on Artificial Intelligence (AAAI) (*acceptance rate: 20.6%*), New York, Feb. 2020
+. *Y. Bu*,  K. Small. [https://arxiv.org/abs/1811.12591 "Active Learning in Recommendation Systems with Multi-level User Preferences"], AAAI Workshop on Interactive and Conversational Recommendation Systems (WICRS), New York, Feb. 2020
+. *Y. Bu*,  J. Lu, V. V. Veeravalli. [Conference/Asilomar_2019.pdf  "Active and Adaptive Sequential Learning with Per Time-step Excess Risk Guarantees"], Proc. IEEE Asilomar Conference on Signals, Systems, and Computers, Pacic Grove, CA, Nov. 2019
+. *Y. Bu*, S. Zou, V. V. Veeravalli. [Conference/ISIT_2019.pdf "Tightening Mutual Information Based Bounds on Generalization Error"], Proc. IEEE International Symposium on Information Theory (ISIT), Paris, France, Jul. 2019
 . *Y. Bu*,  J. Lu, V. V. Veeravalli. [Conference/ICASSP_2019.pdf "Model Change Detection with Application to Machine Learning"], Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, May 2019
 . *Y. Bu*,  S. Zou, V. V. Veeravalli. [Conference/ISIT_2017.pdf   "Linear-Complexity Exponentially-Consistent Tests for Universal Outlying Sequence Detection"], Proc. IEEE International Symposium on Information Theory (ISIT), Aachen, Germany, Jun. 2017
 . *Y. Bu*,  S. Zou, Y. Liang, V. V. Veeravalli. [Conference/ISIT_2016.pdf  "Estimation of KL Divergence between Large-Alphabet Distributions"], Proc. IEEE International Symposium on Information Theory (ISIT), Barcelona, Spain, Jul. 2016
-. *Y. Bu*,  S. Zou, Y. Liang, V. V. Veeravalli. [Conference/ICASSP_2016.pdf "Universal Outlying Sequence Detection for Continuous Observations"], Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Shanghai, Mar. 2016
+. *Y. Bu*,  S. Zou, Y. Liang, V. V. Veeravalli. [Conference/ICASSP_2016.pdf "Universal Outlying Sequence Detection for Continuous Observations"], Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Shanghai, China, Mar. 2016
