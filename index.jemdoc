@@ -24,3 +24,7 @@ I am a postdoctoral research associate at Institute for Data, Systems, and Socie
 I received my Ph.D. degree at the [https://ece.illinois.edu/ Department of Electrical and Computer Engineering], [https://illinois.edu/ University of Illinois at Urbana-Champaign (UIUC)] in 2019, under the supervision of Prof. 
 [http://vvv.ece.illinois.edu/  Venugopal V. Veeravalli]. Before that, I received the B.S. degree (with honors) in [https://www.ee.tsinghua.edu.cn/en/ Electrical Engineering] from [https://www.tsinghua.edu.cn/en/index.htm Tsinghua University], Beijing, China in 2014. My research interests include Machine learning, information theory and signal processing, with applications to data science, sensor networks, and wireless communications.
 
+== News
+- Sept 2021, our paper, "An Exact Characterization of the Generalization Error for the Gibbs Algorithm" has been accepted by NeurIPS 2021 (acceptance rate: 26%)!
+- Sept 2021, our paper, "Population Risk Improvement with Model Compression: An Information-Theoretic Approach" has been published in Entropy as part of the Special Issue Information Theory and Machine Learning.
+- May 2021, our paper, "Fair Selective Classification via Sufficiency" has been accepted by ICML 2021 (Oral: Top 3%)!
