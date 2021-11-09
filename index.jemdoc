@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html} 
-= Yuheng Bu' Homepage
+= Yuheng Bu
 
 ~~~
 {}{img_left}{./bu.JPG}{photo}{235px}{240px}{}
@@ -19,10 +19,12 @@ Email: buyuheng@mit.edu \n
 
 
 == Biography
-I am a postdoctoral research associate at Institute for Data, Systems, and Society at Massachusetts Institute of Technology(MIT). I am currently working with Prof. [http://allegro.mit.edu/~gww/ Gregory W. Wornell].
+I am a postdoctoral research associate at Research Laboratory of Electronics at Massachusetts Institute of Technology(MIT), working with Prof. [http://allegro.mit.edu/~gww/ Gregory W. Wornell]. I am on the academic job market this year.
 
 I received my Ph.D. degree at the [https://ece.illinois.edu/ Department of Electrical and Computer Engineering], [https://illinois.edu/ University of Illinois at Urbana-Champaign (UIUC)] in 2019, under the supervision of Prof. 
-[http://vvv.ece.illinois.edu/  Venugopal V. Veeravalli]. Before that, I received the B.S. degree (with honors) in [https://www.ee.tsinghua.edu.cn/en/ Electrical Engineering] from [https://www.tsinghua.edu.cn/en/index.htm Tsinghua University], Beijing, China in 2014. My research interests include Machine learning, information theory and signal processing, with applications to data science, sensor networks, and wireless communications.
+[http://vvv.ece.illinois.edu/  Venugopal V. Veeravalli]. Before that, I received the B.S. degree (with honors) in [https://www.ee.tsinghua.edu.cn/en/ Electrical Engineering] from [https://www.tsinghua.edu.cn/en/index.htm Tsinghua University], Beijing, China in 2014. 
+
+My research interests lie in the intersection of /information theory/ and /machine learning/. I resort to the tools from information theory to develop theoretically justified learning algorithms with applications to fair machine learning, model compression, and anomaly detection.  More broadly, the primary goal of my research is to lay information-theoretic foundations for the learning algorithms with limited labeled data, including transfer learning and semi-supervised learning, particularly with fairness/privacy constraints.
 
 == News
 - Sept 2021, our paper, "An Exact Characterization of the Generalization Error for the Gibbs Algorithm" has been accepted by NeurIPS 2021 (acceptance rate: 26%)!
