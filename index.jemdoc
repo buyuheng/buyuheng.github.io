@@ -6,7 +6,6 @@
 = Yuheng Bu 
 
 Postdoctoral Research Associate \n
-[https://idss.mit.edu/ Institute for Data, Systems, and Society (IDSS)] \n
 [https://www.rle.mit.edu/ Research Laboratory of Electronics (RLE)] \n
 [http://www.mit.edu/ Massachusetts Institute of Technology]
 
@@ -19,14 +18,29 @@ Email: buyuheng@mit.edu \n
 
 
 == Biography
-I am a postdoctoral research associate at Research Laboratory of Electronics at Massachusetts Institute of Technology(MIT), working with Prof. [http://allegro.mit.edu/~gww/ Gregory W. Wornell]. I am on the academic job market this year.
+I am a postdoctoral research associate at Research Laboratory of Electronics at Massachusetts Institute of Technology (MIT), working with Prof. [http://allegro.mit.edu/~gww/ Gregory W. Wornell]. 
 
 I received my Ph.D. degree at the [https://ece.illinois.edu/ Department of Electrical and Computer Engineering], [https://illinois.edu/ University of Illinois at Urbana-Champaign (UIUC)] in 2019, under the supervision of Prof. 
 [http://vvv.ece.illinois.edu/  Venugopal V. Veeravalli]. Before that, I received the B.S. degree (with honors) in [https://www.ee.tsinghua.edu.cn/en/ Electrical Engineering] from [https://www.tsinghua.edu.cn/en/index.htm Tsinghua University], Beijing, China in 2014. 
 
-My research interests lie in the intersection of /information theory/ and /machine learning/. I resort to the tools from information theory to develop theoretically justified learning algorithms with applications to fair machine learning, model compression, and anomaly detection.  More broadly, the primary goal of my research is to lay information-theoretic foundations for the learning algorithms with limited labeled data, including transfer learning and semi-supervised learning, particularly with fairness/privacy constraints.
+
+*I am on the academic job market this year.*
+
+
+My research interests lie in the intersection of /information theory/, /signal processing/ and /machine learning/. I leverage the tools from information theory and signal processing to develop theoretically justified learning algorithms with applications to fair machine learning, model compression, and anomaly detection.  More broadly, the primary goal of my research is to lay information-theoretic foundations for the learning algorithms with limited labeled data, including transfer learning and semi-supervised learning, particularly with privacy, fairness, and/or communication constraints.
+
+
+== Selected Publications
+
+- G. Aminian\*, *Y. Bu*\*, L. Toni, M. R. D. Rodrigues, G. W. Wornell. [Conference/NeurIPS_2021.pdf "An Exact Characterization of the Generalization Error for the Gibbs Algorithm,"] (\* equal contribution), to apear in Conference on Neural Information Processing Systems (NeurIPS), 2021. *(acceptance rate: 26%)*
+- *Y. Bu*\*, J. K. Lee\*, D. Rajan, P. Sattigeri, R. Panda, S. Das, G. W. Wornell. [Conference/ICML_2021.pdf "Fair Selective
+Classification via Sufficiency,"] (\* equal contribution), International Conference on Machine Learning (ICML), Jul. 2021. *(Long Talk, Top 3%)*
+- *Y. Bu*, S. Zou, V. V. Veeravalli. [Journal/Gen_bound.pdf "Tightening Mutual Information Based Bounds on Generalization Error,"] IEEE Journal on Selected Areas in Information Theory, vol. 1, pp. 121 - 130, May 2020.
+- *Y. Bu*, S. Zou, V. V. Veeravalli. [Journal/Linear_test.pdf "Linear-Complexity Exponentially-Consistent Tests for Universal Outlying Sequence Detection,"] IEEE Transactions on Signal Processing, vol. 67, no. 8, pp. 2115-2128, Apr. 2019. 
+- *Y. Bu*\*, S. Zou\*, Y. Liang, V. V. Veeravalli. [Journal/Minimax_KL.pdf "Estimation of KL Divergence: Optimal Minimax Rate,"] (\*equal contribution), IEEE Transactions on Information Theory, vol. 64, no. 4, pp. 2648-2674, Apr. 2018. \n
+Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *Github*]
 
 == News
 - Sept 2021, our paper, "An Exact Characterization of the Generalization Error for the Gibbs Algorithm" has been accepted by NeurIPS 2021 (acceptance rate: 26%)!
 - Sept 2021, our paper, "Population Risk Improvement with Model Compression: An Information-Theoretic Approach" has been published in Entropy as part of the Special Issue Information Theory and Machine Learning.
-- May 2021, our paper, "Fair Selective Classification via Sufficiency" has been accepted by ICML 2021 (Oral: Top 3%)!
+- May 2021, our paper, "Fair Selective Classification via Sufficiency" has been accepted by ICML 2021 (Long Talk: Top 3%)!
