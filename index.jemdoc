@@ -32,7 +32,7 @@ My research interests lie in the intersection of /information theory/, /signal p
 
 == Selected Publications
 
-- G. Aminian\*, *Y. Bu*\*, L. Toni, M. R. D. Rodrigues, G. W. Wornell. [Conference/NeurIPS_2021.pdf "An Exact Characterization of the Generalization Error for the Gibbs Algorithm,"] (\* equal contribution), to apear in Conference on Neural Information Processing Systems (NeurIPS), 2021. *(acceptance rate: 26%)*
+- G. Aminian\*, *Y. Bu*\*, L. Toni, M. R. D. Rodrigues, G. W. Wornell. [Conference/NeurIPS_2021.pdf "An Exact Characterization of the Generalization Error for the Gibbs Algorithm,"] (\* equal contribution), Conference on Neural Information Processing Systems (NeurIPS), 2021. *(acceptance rate: 26%)*
 - *Y. Bu*\*, J. K. Lee\*, D. Rajan, P. Sattigeri, R. Panda, S. Das, G. W. Wornell. [Conference/ICML_2021.pdf "Fair Selective
 Classification via Sufficiency,"] (\* equal contribution), International Conference on Machine Learning (ICML), Jul. 2021. *(Long Talk, Top 3%)*
 - *Y. Bu*, S. Zou, V. V. Veeravalli. [Journal/Gen_bound.pdf "Tightening Mutual Information Based Bounds on Generalization Error,"] IEEE Journal on Selected Areas in Information Theory, vol. 1, pp. 121 - 130, May 2020.
@@ -41,6 +41,7 @@ Classification via Sufficiency,"] (\* equal contribution), International Confere
 Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *Github*]
 
 == News
+- Dec 2021, I am invited to give a talk [https://www.eee.hku.hk/events/can-information-theory-characterize-learning-algorithms/ "Can information theory characterize learning algorithms?"] at HKU.
 - Sept 2021, our paper, "An Exact Characterization of the Generalization Error for the Gibbs Algorithm" has been accepted by NeurIPS 2021 (acceptance rate: 26%)!
 - Sept 2021, our paper, "Population Risk Improvement with Model Compression: An Information-Theoretic Approach" has been published in Entropy as part of the Special Issue Information Theory and Machine Learning.
 - May 2021, our paper, "Fair Selective Classification via Sufficiency" has been accepted by ICML 2021 (Long Talk: Top 3%)!
