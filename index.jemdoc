@@ -41,7 +41,8 @@ Classification via Sufficiency,"] (\* equal contribution), International Confere
 Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *Github*]
 
 == News
-- Dec 2021, I am invited to give a talk [https://www.eee.hku.hk/events/can-information-theory-characterize-learning-algorithms/ "Can information theory characterize learning algorithms?"] at HKU.
+- Jan 2021, our paper, "A Maximal Correlation Approach to Imposing Fairness in Machine Learning" has been accepted by ICASSP 2022!
+- Jan 2021, our paper, "Characterizing and Understanding the Generalization Error of Transfer Learning with Gibbs Algorithm" has been accepted by AISTATS 2022 (acceptance rate: 29%)!
 - Sept 2021, our paper, "An Exact Characterization of the Generalization Error for the Gibbs Algorithm" has been accepted by NeurIPS 2021 (acceptance rate: 26%)!
 - Sept 2021, our paper, "Population Risk Improvement with Model Compression: An Information-Theoretic Approach" has been published in Entropy as part of the Special Issue Information Theory and Machine Learning.
 - May 2021, our paper, "Fair Selective Classification via Sufficiency" has been accepted by ICML 2021 (Long Talk: Top 3%)!

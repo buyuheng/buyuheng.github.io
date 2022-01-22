@@ -1,0 +1,5 @@
+- Jan 2022, invited talk on  [https://cde.nus.edu.sg/ece/event/can-information-theory-characterize-learning-algorithms/ information-theoretic characterization of learning algorithms] at NUS ECE.
+- Jan 2021, our paper, "A Maximal Correlation Approach to Imposing Fairness in Machine Learning" has been accepted by ICASSP 2022!
+- Jan 2021, our paper, "Characterizing and Understanding the Generalization Error of Transfer Learning with Gibbs Algorithm" has been accepted by AISTATS 2022 (acceptance rate: 29%)!
+- Jan 2022, invited talk on  [https://calendar.hkust.edu.hk/events/can-information-theory-characterize-learning-algorithms information-theoretic characterization of learning algorithms] at HKUST ECE.
+- Dec 2021, invited talk on [https://www.eee.hku.hk/events/can-information-theory-characterize-learning-algorithms/ information-theoretic characterization of learning algorithms] at HKU EEE.
