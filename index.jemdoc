@@ -12,7 +12,7 @@ Postdoctoral Research Associate \n
 ~~~
 
 == Contact Information
-Email: buyuheng@mit.edu \n
+Email: buyuheng \[at\] {mit,ufl} \[dot\] edu  (MIT email is preferred for now)\n
 [https://scholar.google.com/citations?user=1jPQEVMAAAAJ&hl=en Google Scholar]\n
 [https://dblp.org/pers/hd/b/Bu:Yuheng DBLP]\n
 
@@ -20,14 +20,16 @@ Email: buyuheng@mit.edu \n
 == Biography
 I am a postdoctoral research associate at Research Laboratory of Electronics at Massachusetts Institute of Technology (MIT), working with Prof. [http://allegro.mit.edu/~gww/ Gregory W. Wornell]. 
 
+My research interests lie in the intersection of /information theory/, /signal processing/ and /machine learning/. I leverage the tools from information theory and signal processing to develop theoretically justified learning algorithms with applications to fair machine learning, model compression, and anomaly detection.  More broadly, the primary goal of my research is to lay information-theoretic foundations for the learning algorithms with limited labeled data, including transfer learning and semi-supervised learning, particularly with privacy, fairness, and/or communication constraints.
+
+*Future news: Starting from August 2022, I will be an Assistant Professor of the [https://www.ece.ufl.edu/ Department of Electrical & Computer Engineering] at the [https://www.ufl.edu/ University of Florida].*
+
+*I am recruiting Ph.D. students at UF ECE. Please contact me if you are interested.*
+
 I received my Ph.D. degree at the [https://ece.illinois.edu/ Department of Electrical and Computer Engineering], [https://illinois.edu/ University of Illinois at Urbana-Champaign (UIUC)] in 2019, under the supervision of Prof. 
 [http://vvv.ece.illinois.edu/  Venugopal V. Veeravalli]. Before that, I received the B.S. degree (with honors) in [https://www.ee.tsinghua.edu.cn/en/ Electrical Engineering] from [https://www.tsinghua.edu.cn/en/index.htm Tsinghua University], Beijing, China in 2014. 
 
 
-*I am on the academic job market this year.*
-
-
-My research interests lie in the intersection of /information theory/, /signal processing/ and /machine learning/. I leverage the tools from information theory and signal processing to develop theoretically justified learning algorithms with applications to fair machine learning, model compression, and anomaly detection.  More broadly, the primary goal of my research is to lay information-theoretic foundations for the learning algorithms with limited labeled data, including transfer learning and semi-supervised learning, particularly with privacy, fairness, and/or communication constraints.
 
 
 == Selected Publications
@@ -41,6 +43,7 @@ Classification via Sufficiency,"] (\* equal contribution), International Confere
 Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *Github*]
 
 == News
+- Apr 2021, our paper, "Tighter Expected Generalization Error Bounds via Convexity of Information Measures" has been accepted by ISIT 2022!
 - Jan 2021, our paper, "A Maximal Correlation Approach to Imposing Fairness in Machine Learning" has been accepted by ICASSP 2022!
 - Jan 2021, our paper, "Characterizing and Understanding the Generalization Error of Transfer Learning with Gibbs Algorithm" has been accepted by AISTATS 2022 (acceptance rate: 29%)!
 - Sept 2021, our paper, "An Exact Characterization of the Generalization Error for the Gibbs Algorithm" has been accepted by NeurIPS 2021 (acceptance rate: 26%)!
