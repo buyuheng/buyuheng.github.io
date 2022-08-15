@@ -1,35 +1,48 @@
 # jemdoc: menu{MENU}{index.html} 
-= Yuheng Bu
+= Yuheng Bu's Homepage
 
 ~~~
 {}{img_left}{./bu.JPG}{photo}{235px}{240px}{}
-= Yuheng Bu 
+= Yuheng Bu
 
-Postdoctoral Research Associate \n
-[https://www.rle.mit.edu/ Research Laboratory of Electronics (RLE)] \n
-[http://www.mit.edu/ Massachusetts Institute of Technology]
-
-~~~
+Assistant Professor \n
+[https://www.ece.ufl.edu/ Department of Electrical & Computer Engineering (ECE)] \n
+[https://www.eng.ufl.edu/ Herbert Wertheim College of Engineering]\n
+[https://www.ufl.edu/ University of Florida]
 
 == Contact Information
-Email: buyuheng \[at\] {mit,ufl} \[dot\] edu  (MIT email is preferred for now)\n
+Email: buyuheng \[at\] {ufl} \[dot\] edu  \n
 [https://scholar.google.com/citations?user=1jPQEVMAAAAJ&hl=en Google Scholar]\n
 [https://dblp.org/pers/hd/b/Bu:Yuheng DBLP]\n
 
+~~~
 
 == Biography
-I am a postdoctoral research associate at Research Laboratory of Electronics at Massachusetts Institute of Technology (MIT), working with Prof. [http://allegro.mit.edu/~gww/ Gregory W. Wornell]. 
+I am an Assistant Professor with the [https://www.ece.ufl.edu/ Department of Electrical & Computer Engineering (ECE)]  at [https://www.ufl.edu/ University of Florida]. 
 
-My research interests lie in the intersection of /information theory/, /signal processing/ and /machine learning/. I leverage the tools from information theory and signal processing to develop theoretically justified learning algorithms with applications to fair machine learning, model compression, and anomaly detection.  More broadly, the primary goal of my research is to lay information-theoretic foundations for the learning algorithms with limited labeled data, including transfer learning and semi-supervised learning, particularly with privacy, fairness, and/or communication constraints.
+Before joining the University of Florida, I was a postdoctoral research associate at the [https://www.rle.mit.edu/ Research Laboratory of Electronics] and [https://idss.mit.edu/ Institute for Data, Systems, and Society (IDSS)], [https://www.mit.edu/ Massachusetts Institute of Technology (MIT)], working with Prof. [http://allegro.mit.edu/~gww/ Gregory W. Wornell]. 
+I received my Ph.D. degree at the [https://csl.illinois.edu/ Coordinated Science Laboratory] and the [https://ece.illinois.edu/ Department of Electrical and Computer Engineering], [https://illinois.edu/ University of Illinois at Urbana-Champaign (UIUC)] in 2019, under the supervision of Prof. 
+[http://vvv.ece.illinois.edu/  Venugopal V. Veeravalli]. Before that, I received a B.S. degree (with honors) in [https://www.ee.tsinghua.edu.cn/en/ Electrical Engineering] from [https://www.tsinghua.edu.cn/en/index.htm Tsinghua University] in 2014. 
 
-*Future news: Starting from August 2022, I will be an Assistant Professor of the [https://www.ece.ufl.edu/ Department of Electrical & Computer Engineering] at the [https://www.ufl.edu/ University of Florida].*
+== Research
+My research interests lie in the intersection of *machine learning*, *information theory* and *signal processing*. I leverage the tools from /information theory/ and /signal processing/ to develop theoretically justified learning algorithms with applications to /fair machine learning/, /uncertainty quantification/, and /anomaly detection/.  
 
-*I am recruiting Ph.D. students at UF ECE. Please contact me if you are interested.*
-
-I received my Ph.D. degree at the [https://ece.illinois.edu/ Department of Electrical and Computer Engineering], [https://illinois.edu/ University of Illinois at Urbana-Champaign (UIUC)] in 2019, under the supervision of Prof. 
-[http://vvv.ece.illinois.edu/  Venugopal V. Veeravalli]. Before that, I received the B.S. degree (with honors) in [https://www.ee.tsinghua.edu.cn/en/ Electrical Engineering] from [https://www.tsinghua.edu.cn/en/index.htm Tsinghua University], Beijing, China in 2014. 
+More broadly, the primary goal of my research is to lay information-theoretic foundations for the learning algorithms with limited labeled data, including transfer learning and semi-supervised learning, particularly with privacy, fairness, and/or communication constraints.
 
 
+== To Prospective Students
+Two Ph.D. student positions are available starting in 2023 fall.
+
+Prospective students with:
+- interest in one or more of the topics delineated above
+- strong backgrounds in *machine learning*, *signal processing*, and some exposure to *information theory* or *statistics* are encouraged to reach out. 
+
+Please send me an email with the subject "Prospective Ph.D. Student" and the following information:
+- complete academic CV
+- undergraduate/graduate transcripts
+- if applicable, one representative publication where you are an author
+
+While I may not respond to every such email, I will read them.
 
 
 == Selected Publications
@@ -39,14 +52,21 @@ I received my Ph.D. degree at the [https://ece.illinois.edu/ Department of Elect
 Classification via Sufficiency,"] (\* equal contribution), International Conference on Machine Learning (ICML), Jul. 2021. *(Long Talk, Top 3%)*
 - *Y. Bu*, S. Zou, V. V. Veeravalli. [Journal/Gen_bound.pdf "Tightening Mutual Information Based Bounds on Generalization Error,"] IEEE Journal on Selected Areas in Information Theory, vol. 1, pp. 121 - 130, May 2020.
 - *Y. Bu*, S. Zou, V. V. Veeravalli. [Journal/Linear_test.pdf "Linear-Complexity Exponentially-Consistent Tests for Universal Outlying Sequence Detection,"] IEEE Transactions on Signal Processing, vol. 67, no. 8, pp. 2115-2128, Apr. 2019. 
-- *Y. Bu*\*, S. Zou\*, Y. Liang, V. V. Veeravalli. [Journal/Minimax_KL.pdf "Estimation of KL Divergence: Optimal Minimax Rate,"] (\*equal contribution), IEEE Transactions on Information Theory, vol. 64, no. 4, pp. 2648-2674, Apr. 2018. \n
-Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *Github*]
+- *Y. Bu*\*, S. Zou\*, Y. Liang, V. V. Veeravalli. [Journal/Minimax_KL.pdf "Estimation of KL Divergence: Optimal Minimax Rate,"] (\*equal contribution), IEEE Transactions on Information Theory, vol. 64, no. 4, pp. 2648-2674, Apr. 2018. 
+
+
+
+
 
 == News
-- May 2022, our paper, "Selective Regression under Fairness Criteria" has been accepted by ICML 2022 (acceptance rate: 22%)!
-- Apr 2022, our paper, "Tighter Expected Generalization Error Bounds via Convexity of Information Measures" has been accepted by ISIT 2022!
-- Jan 2022, our paper, "A Maximal Correlation Approach to Imposing Fairness in Machine Learning" has been accepted by ICASSP 2022!
-- Jan 2022, our paper, "Characterizing and Understanding the Generalization Error of Transfer Learning with Gibbs Algorithm" has been accepted by AISTATS 2022 (acceptance rate: 29%)!
-- Sept 2021, our paper, "An Exact Characterization of the Generalization Error for the Gibbs Algorithm" has been accepted by NeurIPS 2021 (acceptance rate: 26%)!
-- Sept 2021, our paper, "Population Risk Improvement with Model Compression: An Information-Theoretic Approach" has been published in Entropy as part of the Special Issue Information Theory and Machine Learning.
-- May 2021, our paper, "Fair Selective Classification via Sufficiency" has been accepted by ICML 2021 (Long Talk: Top 3%)!
+- Aug 2022, [https://pronics2004.github.io/ Dr. Prasanna Sattigeri] and I are serving as Guest Editors for the Entropy Special Issue [https://www.mdpi.com/journal/entropy/special_issues/Fairness_Mach_Learn *"Fairness in Machine Learning: Information Theoretic Perspectives."*] We warmly invite you to contribute an *article or extended conference paper* for this Special Issue.
+- Aug 2022, our paper, "Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals," has been accepted by GLOBECOM 2022.
+- Jul 2022, my collaborators and I were interviewed with [https://news.mit.edu/2022/fairness-accuracy-ai-models-0720 *MIT News*] for our recent ICML publication "Selective Regression under Fairness Criteria." Check out  [https://news.mit.edu/2022/fairness-accuracy-ai-models-0720 *here*]!
+- Jun 2022, our paper, "Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation," has been accepted by IEEE MLSP 2022.
+- May 2022, our paper, "Selective Regression under Fairness Criteria," has been accepted by ICML 2022 (acceptance rate: 22%)! 
+- Apr 2022, our paper, "Tighter Expected Generalization Error Bounds via Convexity of Information Measures," has been accepted by ISIT 2022.
+- Jan 2022, our paper, "A Maximal Correlation Approach to Imposing Fairness in Machine Learning," has been accepted by ICASSP 2022.
+- Jan 2022, our paper, "Characterizing and Understanding the Generalization Error of Transfer Learning with Gibbs Algorithm," has been accepted by AISTATS 2022 (acceptance rate: 29%)!
+- Sept 2021, our paper, "An Exact Characterization of the Generalization Error for the Gibbs Algorithm," has been accepted by NeurIPS 2021 (acceptance rate: 26%)!
+- Sept 2021, our paper, "Population Risk Improvement with Model Compression: An Information-Theoretic Approach," has been published in Entropy as part of the Special Issue Information Theory and Machine Learning.
+- May 2021, our paper, "Fair Selective Classification via Sufficiency," has been accepted by ICML 2021 (*Long Talk: Top 3%*)!
