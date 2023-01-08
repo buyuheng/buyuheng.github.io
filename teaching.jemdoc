@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{teaching.html} 
+= EEL 6935 Information-Theoretic Methods in Machine Learning (Spring 2023)
+
+Department of [https://www.ece.ufl.edu/ Electrical and Computer Engineering], [https://www.ufl.edu/ University of Florida]
+\nLectures: 11:45 AM - 12:35 PM MWF, 0327 MAEA
+
+== Contact Information 
+Instructor: Dr. [https://buyuheng.github.io/ Yuheng Bu]\n
+Office: 453 New Engineering Building\n
+Email: buyuheng \[at\] ufl \[dot\] edu\n 
+Office Hours: 1:30 PM - 2:30 PM F, 453 NEB
+
+
+[https://www.ece.ufl.edu/wp-content/uploads/syllabi/Spring2023/EEL6935_Info_Theory_Mach_Learn_Bu_Spring_2023_final.pdf  \[syllabus\]] 
+[https://ufl.instructure.com/courses/473853 \[canvas\]] 
+
+== Outline 
+
+The interplay between information theory and machine learning is a constant theme in the development of both fields. This course will discuss how techniques rooted in information theory play a key role in understanding the fundamental limits of statistical inference and supervised learning problems regarding generalization error and sample complexity. In particular, we will start from traditional statistical inference, which provides us with the basic intuition about the essence of information-theoretic methods, i.e., connecting mathematically defined information measures with operational meaning. Towards the end, we will also discuss the recent trend of using information-theoretic methods in characterizing the generalization error of learning algorithms.
+
+Further descriptions of these areas are given in the [https://www.ece.ufl.edu/wp-content/uploads/syllabi/Spring2023/EEL6935_Info_Theory_Mach_Learn_Bu_Spring_2023_final.pdf  syllabus]. 
+
+== General References
+
+There is no required textbook -- we will provide a set of hand-written notes on [https://ufl.instructure.com/courses/473853 canvas]. The notes contain pointers to relevant references. Some general references are given below.
+
+- Joy A. Thomas and Thomas M. Cover. [http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf "Elements of Information Theory,"] Wiley-Interscience, 2006
+- Y. Polyanskiy and Y. Wu. [https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf "Information Theory: From Coding to Learning,"] Cambridge University Press, 2023 (book draft)
