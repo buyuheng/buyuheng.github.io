@@ -19,8 +19,8 @@
 Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *Github*]
 
 == Conference Publications
-.  M. Shen, *Y. Bu*, P. Sattigeri, S. Ghosh, S. Das, G. W. Wornell. "Post-hoc Uncertainty Learning using a Dirichlet Meta-Model," to appear in, AAAI Conference on Artificial Intelligence (AAAI), Feb. 2023. *(acceptance rate: 19%)*
-. A. Lancho, A. Weiss, G. Lee, J. Tang, *Y. Bu*, Y. Polyanskiy, G. W. Wornell. "Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals," to appear in, IEEE Global Communications Conference, Dec. 2022.
+.  M. Shen, *Y. Bu*, P. Sattigeri, S. Ghosh, S. Das, G. W. Wornell. [https://arxiv.org/abs/2212.07359 "Post-hoc Uncertainty Learning using a Dirichlet Meta-Model,"] to appear in, AAAI Conference on Artificial Intelligence (AAAI), Feb. 2023. *(acceptance rate: 19%)*
+. A. Lancho, A. Weiss, G. Lee, J. Tang, *Y. Bu*, Y. Polyanskiy, G. W. Wornell. [https://arxiv.org/abs/2209.04871 "Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals,"] IEEE Global Communications Conference, Dec. 2022.
 . G. Lee, A. Weiss, A. Lancho, J. Tang, *Y. Bu*, Y. Polyanskiy, G. W. Wornell. [Conference/MLSP_2022.pdf "Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation,"] IEEE International Workshop on Machine Learning for Signal Processing, Aug. 2022. *(Best Student Paper)*
 . A. Shah\*, *Y. Bu*\*, J. K. Lee, P. Sattigeri, R. Panda, S. Das, G. W. Wornell. [https://proceedings.mlr.press/v162/shah22a.html "Selective Regression under Fairness Criteria,"] (\* equal contribution), International Conference on Machine Learning (ICML), Jul. 2022. *(acceptance rate: 22%)*
 . G. Aminian\*, *Y. Bu*\*, G. W. Wornell, M. R. D. Rodrigues. [Conference/ISIT_2022.pdf "Tighter Expected Generalization Error Bounds via Convexity of Information Measures,"] (\* equal contribution), IEEE International Symposium on Information Theory (ISIT), Jun. 2022. 
