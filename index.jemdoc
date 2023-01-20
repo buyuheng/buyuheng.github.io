@@ -46,9 +46,9 @@ While I may not respond to every such email, I will read them.
 
 
 == Selected Publications
-
-- G. Aminian\*, *Y. Bu*\*, L. Toni, M. R. D. Rodrigues, G. W. Wornell. [Conference/NeurIPS_2021.pdf "An Exact Characterization of the Generalization Error for the Gibbs Algorithm,"] (\* equal contribution), Conference on Neural Information Processing Systems (NeurIPS), 2021. *(acceptance rate: 26%)*
-- *Y. Bu*\*, J. K. Lee\*, D. Rajan, P. Sattigeri, R. Panda, S. Das, G. W. Wornell. [Conference/ICML_2021.pdf "Fair Selective
+- *Y. Bu*\*, G. Aminian\*,  L. Toni, M. R. D. Rodrigues, G. W. Wornell. [https://proceedings.mlr.press/v151/bu22a.html "Characterizing and Understanding the Generalization Error of Transfer Learning with Gibbs Algorithm,"] (\* equal contribution), International Conference on Artificial Intelligence and Statistics (AISTATS), Mar. 2022. 
+- G. Aminian\*, *Y. Bu*\*, L. Toni, M. R. D. Rodrigues, G. W. Wornell. [https://papers.nips.cc/paper/2021/hash/445e24b5f22cacb9d51a837c10e91a3f-Abstract.html "An Exact Characterization of the Generalization Error for the Gibbs Algorithm,"] (\* equal contribution), Conference on Neural Information Processing Systems (NeurIPS), 2021. 
+- *Y. Bu*\*, J. K. Lee\*, D. Rajan, P. Sattigeri, R. Panda, S. Das, G. W. Wornell. [http://proceedings.mlr.press/v139/lee21b.html "Fair Selective
 Classification via Sufficiency,"] (\* equal contribution), International Conference on Machine Learning (ICML), Jul. 2021. *(Long Talk, Top 3%)*
 - *Y. Bu*, S. Zou, V. V. Veeravalli. [Journal/Gen_bound.pdf "Tightening Mutual Information Based Bounds on Generalization Error,"] IEEE Journal on Selected Areas in Information Theory, vol. 1, pp. 121 - 130, May 2020.
 - *Y. Bu*, S. Zou, V. V. Veeravalli. [Journal/Linear_test.pdf "Linear-Complexity Exponentially-Consistent Tests for Universal Outlying Sequence Detection,"] IEEE Transactions on Signal Processing, vol. 67, no. 8, pp. 2115-2128, Apr. 2019. 
@@ -60,6 +60,7 @@ Classification via Sufficiency,"] (\* equal contribution), International Confere
 
 == News
 - Jan 26-27 2023, I am co-organizing the [https://meyn.ece.ufl.edu/c3/6th-workshop-on-cognition-control/ *6th Annual Workshop on Cognition & Control*] together with [https://meyn.ece.ufl.edu/about/ Prof. Sean Meyn], [https://saxena.ece.ufl.edu/ Prof. Shreya Saxena] at UF Reitz Union. Talks will include topics such as reinforcement learning, accelerated optimization, information theory, brain-machine interface systems, and much more! We still have open spots for UF students wanting to present in *poster session* (3:30 pm Jan 26), those interested should contact Caio Lauand (caio.kalillauand@ufl.edu). 
+- Jan 2023, our paper, "How Does Pseudo-Labeling Affect the Generalization Error of the Semi-Supervised  Gibbs Algorithm?" has been accepted by AISTATS 2023 (acceptance rate: 29%)!
 - Nov 2022, our paper, "Post-hoc Uncertainty Learning using a Dirichlet Meta-Model," has been accepted by AAAI 2023 (acceptance rate: 19%)! 
 - Aug 2022, our paper, "Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation," has been awarded as [https://2022.ieeemlsp.org/2022/08/25/best-student-paper-contest-results/ *Best Student Paper*] by IEEE MLSP 2022.
 - Aug 2022, [https://pronics2004.github.io/ Dr. Prasanna Sattigeri] and I are serving as Guest Editors for the Entropy Special Issue [https://www.mdpi.com/journal/entropy/special_issues/Fairness_Mach_Learn *"Fairness in Machine Learning: Information Theoretic Perspectives."*] We warmly invite you to contribute an *article or extended conference paper* for this Special Issue.
