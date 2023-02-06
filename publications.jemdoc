@@ -2,9 +2,10 @@
 = Publications
 
 == Preprints
+. *Y. Bu*, H. V. Tetali, G. Aminian, M. R. D. Rodrigues, G. W. Wornell. "On the Generalization Error of Meta Learning for the Gibbs Algorithm," submitted to IEEE International Symposium on Information Theory (ISIT), Feb. 2023.
+. A. Weiss, A. Lancho, Y. Bu, G. W. Wornell. "A Bilateral Bound on the Mean Squared Error for Estimation in Model Mismatch," submitted to IEEE International Symposium on Information Theory (ISIT), Feb. 2023
 . A. Shah, M. Shen, J. Ryu, S. Das, P. Sattigeri, Y. Bu, G. Wornell. "Group Fairness with Uncertainty in Sensitive Attributes," submitted to, International Conference on Machine Learning (ICML), Jan. 2023. 
 . M. Shen, *Y. Bu*, G. W. Wornell. [https://arxiv.org/pdf/2202.00796 "On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation,"] submitted to, International Conference on Machine Learning (ICML), Jan. 2023. 
-. A. Weiss, A. Lancho, Y. Bu, G. W. Wornell. "A Bilateral Bound on the Mean Squared Error for Estimation in Model Mismatch," submitted to IEEE Signal Processing Letter, Nov. 2022.
 . *Y. Bu*\*, G. Aminian\*,  L. Toni, M. R. D. Rodrigues, G. W. Wornell. [https://arxiv.org/pdf/2210.09864 "Information-theoretic Characterizations of Generalization Error for the Gibbs Algorithm,"] (\* equal contribution), submitted to IEEE Transactions on Information Theory, Oct. 2022.
 . *Y. Bu*, J. Lu, V. V. Veeravalli. [https://arxiv.org/pdf/1805.11710 "Active and Adaptive Sequential learning,"] arXiv preprint, 2020. 
 
@@ -21,7 +22,7 @@ Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *
 . M. Shen, S. Ghosh, P. Sattigeri, S. Das, Y. Bu, G. Wornell. "Reliable Gradient-free and Likelihood-free Prompt Tuning," to appear in, Conference of the European Chapter of the Association for Computational Linguistics (EACL), May 2023.
 . H. He, G. Aminian, Y. Bu, M. R. D. Rodrigues, V. YF Tan. [https://arxiv.org/pdf/2210.08188
 "How Does Pseudo-Labeling Affect the Generalization Error of the Semi-Supervised Gibbs Algorithm?"] to appear in, International Conference on Artificial Intelligence and Statistics (AISTATS), Apr. 2023. *(acceptance rate: 29%)*
-.  M. Shen, *Y. Bu*, P. Sattigeri, S. Ghosh, S. Das, G. W. Wornell. [https://arxiv.org/pdf/2212.07359 "Post-hoc Uncertainty Learning using a Dirichlet Meta-Model,"] to appear in, AAAI Conference on Artificial Intelligence (AAAI), Feb. 2023. *(acceptance rate: 19%)*
+.  M. Shen, *Y. Bu*, P. Sattigeri, S. Ghosh, S. Das, G. W. Wornell. [https://arxiv.org/pdf/2212.07359 "Post-hoc Uncertainty Learning using a Dirichlet Meta-Model,"] AAAI Conference on Artificial Intelligence (AAAI), Feb. 2023. *(acceptance rate: 19%)*
 . A. Lancho, A. Weiss, G. Lee, J. Tang, Y. Bu, Y. Polyanskiy, G. W. Wornell. [Conference/GlobalCom_2022.pdf "Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals,"] IEEE Global Communications Conference, Dec. 2022.
 . G. Lee, A. Weiss, A. Lancho, J. Tang, Y. Bu, Y. Polyanskiy, G. W. Wornell. [Conference/MLSP_2022.pdf "Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation,"] IEEE International Workshop on Machine Learning for Signal Processing, Aug. 2022. *(Best Student Paper)*
 . A. Shah\*, *Y. Bu*\*, J. K. Lee, P. Sattigeri, R. Panda, S. Das, G. W. Wornell. [https://proceedings.mlr.press/v162/shah22a.html "Selective Regression under Fairness Criteria,"] (\* equal contribution), International Conference on Machine Learning (ICML), Jul. 2022. *(acceptance rate: 22%)*
