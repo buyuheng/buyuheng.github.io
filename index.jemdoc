@@ -58,6 +58,7 @@ Classification via Sufficiency,"] (\* equal contribution), International Confere
 
 
 == News
+- Apr 2022, two papers, "On the Generalization Error of Meta Learning for the Gibbs Algorithm" and "A Bilateral Bound on the Mean Squared Error for Estimation in Model Mismatch," have been accepted by ISIT 2023.
 - Feb 2022, my collaborators and I were interviewed with [https://news.mit.edu/2023/improving-machine-learning-models-reliability-0213 *MIT News*] for our recent AAAI publication [https://arxiv.org/pdf/2212.07359 "Post-hoc Uncertainty Learning using a Dirichlet Meta-Model."] Check out  [https://news.mit.edu/2023/improving-machine-learning-models-reliability-0213 *here*]!
 - Feb 2023, I gave a talk on "Characterizing the generalization error of Gibbs algorithms using information measures" at [https://ita.ucsd.edu/ Information Theory and Applications Workshop], ITA 2023, San Diego.
 - Jan 2023, our paper, "Adaptive Sequential Machine Learning," has been selected as the winner of the 16th *Abraham Wald Prize* in Sequential Analysis!
