@@ -1,46 +1,149 @@
 # jemdoc: menu{MENU}{publications.html} 
 = Publications
 
-== Preprints
-. A. Shah, M. Shen, J. Ryu, S. Das, P. Sattigeri, Y. Bu, G. Wornell. [https://arxiv.org/pdf/2302.08077 "Group Fairness with Uncertainty in Sensitive Attributes,"] submitted to, International Conference on Machine Learning (ICML), Jan. 2023. 
-. M. Shen, *Y. Bu*, G. W. Wornell. [https://arxiv.org/pdf/2202.00796 "On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation,"] submitted to, International Conference on Machine Learning (ICML), Jan. 2023. 
-. *Y. Bu*\*, G. Aminian\*,  L. Toni, M. R. D. Rodrigues, G. W. Wornell. [https://arxiv.org/pdf/2210.09864 "Information-theoretic Characterizations of Generalization Error for the Gibbs Algorithm,"] (\* equal contribution), submitted to IEEE Transactions on Information Theory, Oct. 2022.
-. *Y. Bu*, J. Lu, V. V. Veeravalli. [https://arxiv.org/pdf/1805.11710 "Active and Adaptive Sequential learning,"] arXiv preprint, 2020. 
 
-== Journal Publications
-. *Y. Bu*\*, J. K. Lee\*, P. Sattigeri, R. Panda, G. W. Wornell, L. Karlinsky, R. Feris. [https://www.mdpi.com/1099-4300/24/4/461/htm "A Maximal Correlation Framework for Fair Machine Learning,"] (\* equal contribution), Entropy 24, no. 4, pp. 461, Mar. 2022.
-. *Y. Bu*, W. Gao, S. Zou, V. V. Veeravalli. [https://www.mdpi.com/1099-4300/23/10/1255/htm "Population Risk Improvement with Model Compression: An Information-Theoretic Approach,"] Entropy 23, no. 10, pp. 1255, Sept. 2021.
-. *Y. Bu*, S. Zou, V. V. Veeravalli. [Journal/Gen_bound.pdf "Tightening Mutual Information Based Bounds on Generalization Error,"] IEEE Journal on Selected Areas in Information Theory, vol. 1, pp. 121 - 130, May 2020.
-. C. Wilson, *Y. Bu*, V. V. Veeravalli. [Journal/Adaptive_sequential_learning.pdf "Adaptive Sequential Machine Learning,"] Sequential Analysis, vol. 38, no. 4, Oct. 2019.
-. *Y. Bu*, S. Zou, V. V. Veeravalli. [Journal/Linear_test.pdf "Linear-Complexity Exponentially-Consistent Tests for Universal Outlying Sequence Detection,"] IEEE Transactions on Signal Processing, vol. 67, no. 8, pp. 2115-2128, Apr. 2019. 
-. *Y. Bu*\*, S. Zou\*, Y. Liang, V. V. Veeravalli. [Journal/Minimax_KL.pdf "Estimation of KL Divergence: Optimal Minimax Rate,"] (\*equal contribution), IEEE Transactions on Information Theory, vol. 64, no. 4, pp. 2648-2674, Apr. 2018. \n
+== Journal Publications and Preprints
+. [https://arxiv.org/pdf/2210.09864 Information-theoretic Characterizations of Generalization Error for the Gibbs Algorithm]\n
+*Y. Bu*\*, G. Aminian\*,  L. Toni, M. R. D. Rodrigues, G. W. Wornell  (\* equal contribution)\n 
+submitted to IEEE Transactions on Information Theory, Oct. 2022.
+\n
+. [https://www.mdpi.com/1099-4300/24/4/461/htm A Maximal Correlation Framework for Fair Machine Learning]\n
+*Y. Bu*\*, J. K. Lee\*, P. Sattigeri, R. Panda, G. W. Wornell, L. Karlinsky, R. Feris (\* equal contribution)\n
+ Entropy 24, no. 4, pp. 461, Mar. 2022.
+\n
+. [https://www.mdpi.com/1099-4300/23/10/1255/htm Population Risk Improvement with Model Compression: An Information-Theoretic Approach]\n
+*Y. Bu*, W. Gao, S. Zou, V. V. Veeravalli. \n 
+Entropy 23, no. 10, pp. 1255, Sept. 2021.
+\n
+. [https://arxiv.org/pdf/1805.11710 Active and Adaptive Sequential learning]\n
+*Y. Bu*, J. Lu, V. V. Veeravalli \n 
+arXiv preprint, 2020. 
+\n
+. [Journal/Gen_bound.pdf Tightening Mutual Information Based Bounds on Generalization Error]\n
+*Y. Bu*, S. Zou, V. V. Veeravalli. \n 
+IEEE Journal on Selected Areas in Information Theory, vol. 1, pp. 121 - 130, May 2020.
+\n
+. [Journal/Adaptive_sequential_learning.pdf Adaptive Sequential Machine Learning]\n
+C. Wilson, *Y. Bu*, V. V. Veeravalli. \n 
+Sequential Analysis, vol. 38, no. 4, Oct. 2019. (*16th Abraham Wald Prize*)
+\n
+. [Journal/Linear_test.pdf Linear-Complexity Exponentially-Consistent Tests for Universal Outlying Sequence Detection]\n
+*Y. Bu*, S. Zou, V. V. Veeravalli.\n 
+IEEE Transactions on Signal Processing, vol. 67, no. 8, pp. 2115-2128, Apr. 2019. 
+\n
+. [Journal/Minimax_KL.pdf Estimation of KL Divergence: Optimal Minimax Rate]\n 
+*Y. Bu*\*, S. Zou\*, Y. Liang, V. V. Veeravalli. (\*equal contribution), \n
+IEEE Transactions on Information Theory, vol. 64, no. 4, pp. 2648-2674, Apr. 2018. \n
 Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *Github*]
 
+
+
 == Conference Publications
-. *Y. Bu*, H. V. Tetali, G. Aminian, M. R. D. Rodrigues, G. W. Wornell. "On the Generalization Error of Meta Learning for the Gibbs Algorithm," to appear in, IEEE International Symposium on Information Theory (ISIT), Jun. 2023.
-. A. Weiss, A. Lancho, Y. Bu, G. W. Wornell. "A Bilateral Bound on the Mean Squared Error for Estimation in Model Mismatch," to appear in, IEEE International Symposium on Information Theory (ISIT), Jun. 2023.
-. M. Shen, S. Ghosh, P. Sattigeri, S. Das, Y. Bu, G. Wornell. "Reliable Gradient-free and Likelihood-free Prompt Tuning," to appear in, Conference of the European Chapter of the Association for Computational Linguistics (EACL), May 2023.
-. H. He, G. Aminian, Y. Bu, M. R. D. Rodrigues, V. YF Tan. [https://arxiv.org/pdf/2210.08188
-"How Does Pseudo-Labeling Affect the Generalization Error of the Semi-Supervised Gibbs Algorithm?"] International Conference on Artificial Intelligence and Statistics (AISTATS), Apr. 2023. *(acceptance rate: 29%)*
-.  M. Shen, *Y. Bu*, P. Sattigeri, S. Ghosh, S. Das, G. W. Wornell. [https://arxiv.org/pdf/2212.07359 "Post-hoc Uncertainty Learning using a Dirichlet Meta-Model,"] AAAI Conference on Artificial Intelligence (AAAI), Feb. 2023. *(acceptance rate: 19%)*
-. A. Lancho, A. Weiss, G. Lee, J. Tang, Y. Bu, Y. Polyanskiy, G. W. Wornell. [Conference/GlobalCom_2022.pdf "Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals,"] IEEE Global Communications Conference, Dec. 2022.
-. G. Lee, A. Weiss, A. Lancho, J. Tang, Y. Bu, Y. Polyanskiy, G. W. Wornell. [Conference/MLSP_2022.pdf "Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation,"] IEEE International Workshop on Machine Learning for Signal Processing, Aug. 2022. *(Best Student Paper)*
-. A. Shah\*, *Y. Bu*\*, J. K. Lee, P. Sattigeri, R. Panda, S. Das, G. W. Wornell. [https://proceedings.mlr.press/v162/shah22a.html "Selective Regression under Fairness Criteria,"] (\* equal contribution), International Conference on Machine Learning (ICML), Jul. 2022. *(acceptance rate: 22%)*
-. G. Aminian\*, *Y. Bu*\*, G. W. Wornell, M. R. D. Rodrigues. [Conference/ISIT_2022.pdf "Tighter Expected Generalization Error Bounds via Convexity of Information Measures,"] (\* equal contribution), IEEE International Symposium on Information Theory (ISIT), Jun. 2022. 
-. *Y. Bu*\*, J. K. Lee\*, P. Sattigeri, R. Panda, G. W. Wornell, L. Karlinsky, R. Feris. [Conference/ICASSP_2022.pdf "A Maximal Correlation Approach to Imposing Fairness in Machine Learning,"] (\*equal contribution), IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), May 2022.
-. *Y. Bu*\*, G. Aminian\*,  L. Toni, M. R. D. Rodrigues, G. W. Wornell. [https://proceedings.mlr.press/v151/bu22a.html "Characterizing and Understanding the Generalization Error of Transfer Learning with Gibbs Algorithm,"] (\* equal contribution), International Conference on Artificial Intelligence and Statistics (AISTATS), Mar. 2022.  *(acceptance rate: 29%)*
-. G. Aminian\*, *Y. Bu*\*, L. Toni, M. R. D. Rodrigues, G. W. Wornell. [https://papers.nips.cc/paper/2021/hash/445e24b5f22cacb9d51a837c10e91a3f-Abstract.html "An Exact Characterization of the Generalization Error for the Gibbs Algorithm,"] (\* equal contribution), Conference on Neural Information Processing Systems (NeurIPS), Dec. 2021. *(acceptance rate: 26%)*
-. *Y. Bu*\*, J. K. Lee\*, D. Rajan, P. Sattigeri, R. Panda, S. Das, G. W. Wornell. [http://proceedings.mlr.press/v139/lee21b.html "Fair Selective
-Classification via Sufficiency,"] (\* equal contribution), International Conference on Machine Learning (ICML), Jul. 2021. *(Oral, Top 3%)*
-. G. Aminian\*, *Y. Bu*\*, L. Toni, M. Rodrigues, G. W. Wornell. [https://arxiv.org/pdf/2107.13656 "Characterizing the Generalization
-Error of Gibbs Algorithm with Symmetrized KL information,"] (* equal contribution), ICML Workshop
-on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning, Jul. 2021.
-. *Y. Bu*, T. Wang, G. W. Wornell. [Conference/ISIT_2021.pdf "SDP Methods for Sensitivity-Constrained Privacy Funnel and Information Bottleneck Problems,"] IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia, Jul. 2021.
-. *Y. Bu*, W. Gao, S. Zou, V. V. Veeravalli. [Conference/AAAI_2020.pdf "Information-theoretic Understanding of Population Risk Improvement with Model Compression,"] AAAI Conference on Artificial Intelligence (AAAI), New York, Feb. 2020. *(acceptance rate: 21%)*
-. *Y. Bu*,  K. Small. [https://arxiv.org/pdf/1811.12591 "Active Learning in Recommendation Systems with Multi-level User Preferences,"] AAAI Workshop on Interactive and Conversational Recommendation Systems (WICRS), New York, Feb. 2020.
-. *Y. Bu*,  J. Lu, V. V. Veeravalli. [Conference/Asilomar_2019.pdf  "Active and Adaptive Sequential Learning with Per Time-step Excess Risk Guarantees,"] IEEE Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, Nov. 2019.
-. *Y. Bu*, S. Zou, V. V. Veeravalli. [Conference/ISIT_2019.pdf "Tightening Mutual Information Based Bounds on Generalization Error,"] IEEE International Symposium on Information Theory (ISIT), Paris, France, Jul. 2019.
-. *Y. Bu*,  J. Lu, V. V. Veeravalli. [Conference/ICASSP_2019.pdf "Model Change Detection with Application to Machine Learning,"] IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, May 2019.
-. *Y. Bu*,  S. Zou, V. V. Veeravalli. [Conference/ISIT_2017.pdf   "Linear-Complexity Exponentially-Consistent Tests for Universal Outlying Sequence Detection,"] IEEE International Symposium on Information Theory (ISIT), Aachen, Germany, Jun. 2017.
-. *Y. Bu*,  S. Zou, Y. Liang, V. V. Veeravalli. [Conference/ISIT_2016.pdf  "Estimation of KL Divergence between Large-Alphabet Distributions,"] IEEE International Symposium on Information Theory (ISIT), Barcelona, Spain, Jul. 2016.
-. *Y. Bu*,  S. Zou, Y. Liang, V. V. Veeravalli. [Conference/ICASSP_2016.pdf "Universal Outlying Sequence Detection for Continuous Observations,"] IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Shanghai, China, Mar. 2016.
+=== 2023
+- [https://arxiv.org/pdf/2302.08077 Group Fairness with Uncertainty in Sensitive Attributes]\n
+A. Shah, M. Shen, J. Ryu, S. Das, P. Sattigeri, Y. Bu, G. Wornell \n 
+arXiv preprint, 2023. 
+
+- [https://arxiv.org/pdf/2202.00796 On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation]\n
+M. Shen, *Y. Bu*, G. W. Wornell \n 
+to appear in, International Conference on Machine Learning (ICML), Honolulu, Hawai'i, Jul. 2023. *(acceptance rate: 28%)*
+
+- On the Generalization Error of Meta Learning for the Gibbs Algorithm \n
+*Y. Bu*, H. V. Tetali, G. Aminian, M. R. D. Rodrigues, G. W. Wornell \n
+to appear in, IEEE International Symposium on Information Theory (ISIT), Taipei, Jun. 2023.
+
+- A Bilateral Bound on the Mean Squared Error for Estimation in Model Mismatch \n
+A. Weiss, A. Lancho, Y. Bu, G. W. Wornell \n
+to appear in, IEEE International Symposium on Information Theory (ISIT), Taipei, Jun. 2023.
+
+- Reliable Gradient-free and Likelihood-free Prompt Tuning \n
+M. Shen, S. Ghosh, P. Sattigeri, S. Das, Y. Bu, G. Wornell \n
+Conference of the European Chapter of the Association for Computational Linguistics (EACL), Dubrovnik, Croatia, May 2023.
+
+- [https://arxiv.org/pdf/2210.08188
+How Does Pseudo-Labeling Affect the Generalization Error of the Semi-Supervised Gibbs Algorithm?]\n 
+H. He, G. Aminian, Y. Bu, M. R. D. Rodrigues, V. YF Tan \n
+International Conference on Artificial Intelligence and Statistics (AISTATS), Valencia, Spain, Apr. 2023. *(acceptance rate: 29%)*
+
+-  [https://arxiv.org/pdf/2212.07359 Post-hoc Uncertainty Learning using a Dirichlet Meta-Model]\n
+M. Shen, *Y. Bu*, P. Sattigeri, S. Ghosh, S. Das, G. W. Wornell \n 
+AAAI Conference on Artificial Intelligence (AAAI), Washington DC, Feb. 2023. *(acceptance rate: 19%)* \n
+Code available at [https://github.com/maohaos2/PosthocUQ *Github*]
+
+=== 2022
+- [Conference/GlobalCom_2022.pdf Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals]\n
+A. Lancho, A. Weiss, G. Lee, J. Tang, Y. Bu, Y. Polyanskiy, G. W. Wornell \n 
+IEEE Global Communications Conference, Rio de Janeiro, Brazil, Dec. 2022.
+
+- [Conference/MLSP_2022.pdf Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation]\n
+G. Lee, A. Weiss, A. Lancho, J. Tang, Y. Bu, Y. Polyanskiy, G. W. Wornell \n
+IEEE International Workshop on Machine Learning for Signal Processing, Xi'an, China, Aug. 2022. *(Best Student Paper)*
+
+- [https://proceedings.mlr.press/v162/shah22a.html Selective Regression under Fairness Criteria]\n
+A. Shah\*, *Y. Bu*\*, J. K. Lee, P. Sattigeri, R. Panda, S. Das, G. W. Wornell (\* equal contribution) \n 
+International Conference on Machine Learning (ICML), Baltimore, MD, Jul. 2022. *(acceptance rate: 22%)*
+
+- [Conference/ISIT_2022.pdf Tighter Expected Generalization Error Bounds via Convexity of Information Measures]\n
+G. Aminian\*, *Y. Bu*\*, G. W. Wornell, M. R. D. Rodrigues  (\* equal contribution)\n 
+IEEE International Symposium on Information Theory (ISIT), Espoo, Finland, Jun. 2022.
+
+- [Conference/ICASSP_2022.pdf A Maximal Correlation Approach to Imposing Fairness in Machine Learning]\n
+*Y. Bu*\*, J. K. Lee\*, P. Sattigeri, R. Panda, G. W. Wornell, L. Karlinsky, R. Feris  (\*equal contribution)\n
+ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, May 2022.
+
+- [https://proceedings.mlr.press/v151/bu22a.html Characterizing and Understanding the Generalization Error of Transfer Learning with Gibbs Algorithm]\n
+*Y. Bu*\*, G. Aminian\*,  L. Toni, M. R. D. Rodrigues, G. W. Wornell  (\* equal contribution)\n 
+International Conference on Artificial Intelligence and Statistics (AISTATS), Mar. 2022.  *(acceptance rate: 29%)*
+
+=== 2021
+- [https://papers.nips.cc/paper/2021/hash/445e24b5f22cacb9d51a837c10e91a3f-Abstract.html An Exact Characterization of the Generalization Error for the Gibbs Algorithm]\n
+G. Aminian\*, *Y. Bu*\*, L. Toni, M. R. D. Rodrigues, G. W. Wornell  (\* equal contribution)\n 
+Conference on Neural Information Processing Systems (NeurIPS), Dec. 2021. *(acceptance rate: 26%)*
+
+- [http://proceedings.mlr.press/v139/lee21b.html Fair Selective
+Classification via Sufficiency]\n
+*Y. Bu*\*, J. K. Lee\*, D. Rajan, P. Sattigeri, R. Panda, S. Das, G. W. Wornell.  (\* equal contribution)\n
+International Conference on Machine Learning (ICML), Jul. 2021. *(Oral, Top 3%)*
+
+- [https://arxiv.org/pdf/2107.13656 Characterizing the Generalization
+Error of Gibbs Algorithm with Symmetrized KL information]\n
+G. Aminian\*, *Y. Bu*\*, L. Toni, M. Rodrigues, G. W. Wornell  (* equal contribution)\n
+ICML Workshop on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning, Jul. 2021.
+
+- [Conference/ISIT_2021.pdf SDP Methods for Sensitivity-Constrained Privacy Funnel and Information Bottleneck Problems]\n
+*Y. Bu*, T. Wang, G. W. Wornell \n 
+IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia, Jul. 2021.
+
+=== Before 2021
+
+- [Conference/AAAI_2020.pdf Information-theoretic Understanding of Population Risk Improvement with Model Compression]\n
+*Y. Bu*, W. Gao, S. Zou, V. V. Veeravalli \n 
+AAAI Conference on Artificial Intelligence (AAAI), New York, Feb. 2020. *(acceptance rate: 21%)*
+
+- [https://arxiv.org/pdf/1811.12591 Active Learning in Recommendation Systems with Multi-level User Preferences]\n 
+*Y. Bu*,  K. Small \n
+AAAI Workshop on Interactive and Conversational Recommendation Systems (WICRS), New York, Feb. 2020.
+
+- [Conference/Asilomar_2019.pdf  Active and Adaptive Sequential Learning with Per Time-step Excess Risk Guarantees]\n
+*Y. Bu*,  J. Lu, V. V. Veeravalli \n
+IEEE Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, Nov. 2019.
+
+- [Conference/ISIT_2019.pdf Tightening Mutual Information Based Bounds on Generalization Error]\n 
+*Y. Bu*, S. Zou, V. V. Veeravalli \n
+IEEE International Symposium on Information Theory (ISIT), Paris, France, Jul. 2019.
+
+- [Conference/ICASSP_2019.pdf Model Change Detection with Application to Machine Learning]\n
+*Y. Bu*,  J. Lu, V. V. Veeravalli \n 
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, May 2019.
+
+- [Conference/ISIT_2017.pdf   Linear-Complexity Exponentially-Consistent Tests for Universal Outlying Sequence Detection]\n 
+*Y. Bu*,  S. Zou, V. V. Veeravalli \n
+IEEE International Symposium on Information Theory (ISIT), Aachen, Germany, Jun. 2017.
+
+- [Conference/ISIT_2016.pdf  Estimation of KL Divergence between Large-Alphabet Distributions]\n
+*Y. Bu*,  S. Zou, Y. Liang, V. V. Veeravalli\n
+  IEEE International Symposium on Information Theory (ISIT), Barcelona, Spain, Jul. 2016
+
+- [Conference/ICASSP_2016.pdf Universal Outlying Sequence Detection for Continuous Observations]\n
+*Y. Bu*,  S. Zou, Y. Liang, V. V. Veeravalli\n 
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Shanghai, China, Mar. 2016

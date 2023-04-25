@@ -18,7 +18,7 @@ Email: buyuheng \[at\] {ufl} \[dot\] edu  \n
 ~~~
 
 == Biography
-I am an Assistant Professor with the [https://www.ece.ufl.edu/ Department of Electrical & Computer Engineering (ECE)]  at [https://www.ufl.edu/ University of Florida]. 
+I am an Assistant Professor in the [https://www.ece.ufl.edu/ Department of Electrical & Computer Engineering (ECE)]  at [https://www.ufl.edu/ University of Florida]. 
 
 Before joining the University of Florida, I was a postdoctoral research associate at the [https://www.rle.mit.edu/ Research Laboratory of Electronics] and [https://idss.mit.edu/ Institute for Data, Systems, and Society (IDSS)], [https://www.mit.edu/ Massachusetts Institute of Technology (MIT)]. 
 I received my Ph.D. degree at the [https://csl.illinois.edu/ Coordinated Science Laboratory] and the [https://ece.illinois.edu/ Department of Electrical and Computer Engineering], [https://illinois.edu/ University of Illinois at Urbana-Champaign (UIUC)] in 2019. Before that, I received a B.S. degree (with honors) in [https://www.ee.tsinghua.edu.cn/en/ Electronic Engineering] from [https://www.tsinghua.edu.cn/en/index.htm Tsinghua University] in 2014. 
@@ -30,18 +30,10 @@ More broadly, the primary goal of my research is to lay information-theoretic fo
 
 
 == To Prospective Students
-Two Ph.D. student positions are available starting in 2023 fall.
 
-Prospective students with:
-- interest in one or more of the topics delineated above
-- strong backgrounds in *machine learning*, *signal processing*, and some exposure to *information theory* or *statistics* are encouraged to reach out. 
+PhD candidates: Students with strong backgrounds in *machine learning*, *signal processing*, *statistics*, and *information theory* are encouraged to reach out. 
 
-Please send me an email with the subject "Prospective Ph.D. Student" and the following information:
-- complete academic CV
-- undergraduate/graduate transcripts
-- if applicable, one representative publication
-
-While I may not respond to every such email, I will read them.
+Please send me an email with the subject "Prospective Ph.D. Student" attached with your academic CV and undergraduate/graduate transcripts.
 
 
 == Selected Publications
@@ -58,12 +50,13 @@ Classification via Sufficiency,"] (\* equal contribution), International Confere
 
 
 == News
-- Apr 2022, two papers, "On the Generalization Error of Meta Learning for the Gibbs Algorithm" and "A Bilateral Bound on the Mean Squared Error for Estimation in Model Mismatch," have been accepted by ISIT 2023.
-- Feb 2022, my collaborators and I were interviewed with [https://news.mit.edu/2023/improving-machine-learning-models-reliability-0213 *MIT News*] for our recent AAAI publication [https://arxiv.org/pdf/2212.07359 "Post-hoc Uncertainty Learning using a Dirichlet Meta-Model."] Check out  [https://news.mit.edu/2023/improving-machine-learning-models-reliability-0213 *here*]!
+- Apr 2023, our paper, "On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation," has been accepted by ICML 2023 (acceptance rate: 28%). I'll see you in Hawaii!
+- Apr 2023, two papers, "On the Generalization Error of Meta Learning for the Gibbs Algorithm" and "A Bilateral Bound on the Mean Squared Error for Estimation in Model Mismatch," have been accepted by ISIT 2023.
+- Feb 2023, my collaborators and I were interviewed with [https://news.mit.edu/2023/improving-machine-learning-models-reliability-0213 *MIT News*] for our recent AAAI publication [https://arxiv.org/pdf/2212.07359 "Post-hoc Uncertainty Learning using a Dirichlet Meta-Model."] Check out  [https://news.mit.edu/2023/improving-machine-learning-models-reliability-0213 *here*]!
 - Feb 2023, I gave a talk on "Characterizing the generalization error of Gibbs algorithms using information measures" at [https://ita.ucsd.edu/ Information Theory and Applications Workshop], ITA 2023, San Diego.
 - Jan 2023, our paper, "Adaptive Sequential Machine Learning," has been selected as the winner of the 16th *Abraham Wald Prize* in Sequential Analysis!
-- Jan 26-27 2023, I have co-organized the [https://meyn.ece.ufl.edu/c3/6th-workshop-on-cognition-control/ *6th Annual Workshop on Cognition & Control*] together with [https://meyn.ece.ufl.edu/about/ Prof. Sean Meyn], [https://saxena.ece.ufl.edu/ Prof. Shreya Saxena] at UF Reitz Union. Talks include topics such as reinforcement learning, accelerated optimization, information theory, brain-machine interface systems, and much more!
-- Jan 25 2023, I gave a virtual presentation "From Sensitivity-constrained Information Bottleneck to Fair Selective Prediction" at [https://ims.nus.edu.sg/events/information-theory-and-data-science-workshop/ Information Theory and Data Science Workshop] organized by National University of Singapore.
+- Jan 2023, I have co-organized the [https://meyn.ece.ufl.edu/c3/6th-workshop-on-cognition-control/ *6th Annual Workshop on Cognition & Control*] together with [https://meyn.ece.ufl.edu/about/ Prof. Sean Meyn], [https://saxena.ece.ufl.edu/ Prof. Shreya Saxena] at UF Reitz Union. Talks include topics such as reinforcement learning, accelerated optimization, information theory, brain-machine interface systems, and much more!
+- Jan 2023, I gave a virtual presentation "From Sensitivity-constrained Information Bottleneck to Fair Selective Prediction" at [https://ims.nus.edu.sg/events/information-theory-and-data-science-workshop/ Information Theory and Data Science Workshop] organized by National University of Singapore.
 - Jan 2023, our paper, "Reliable Gradient-free and Likelihood-free Prompt Tuning," has been accepted by EACL 2023!
 - Jan 2023, our paper, "How Does Pseudo-Labeling Affect the Generalization Error of the Semi-Supervised  Gibbs Algorithm?" has been accepted by AISTATS 2023 (acceptance rate: 29%)!
 - Nov 2022, our paper, "Post-hoc Uncertainty Learning using a Dirichlet Meta-Model," has been accepted by AAAI 2023 (acceptance rate: 19%)! 
