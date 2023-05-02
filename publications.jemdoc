@@ -56,9 +56,9 @@ to appear in, IEEE International Symposium on Information Theory (ISIT), Taipei,
 A. Weiss, A. Lancho, Y. Bu, G. W. Wornell \n
 to appear in, IEEE International Symposium on Information Theory (ISIT), Taipei, Jun. 2023.
 
-- Reliable Gradient-free and Likelihood-free Prompt Tuning \n
+- [https://aclanthology.org/2023.findings-eacl.183/ Reliable Gradient-free and Likelihood-free Prompt Tuning] \n
 M. Shen, S. Ghosh, P. Sattigeri, S. Das, Y. Bu, G. Wornell \n
-Conference of the European Chapter of the Association for Computational Linguistics (EACL), Dubrovnik, Croatia, May 2023.
+Findings of the European Chapter of the Association for Computational Linguistics (EACL), Dubrovnik, Croatia, May 2023.
 
 - [https://arxiv.org/pdf/2210.08188
 How Does Pseudo-Labeling Affect the Generalization Error of the Semi-Supervised Gibbs Algorithm?]\n 
