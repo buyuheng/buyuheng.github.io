@@ -24,14 +24,14 @@ Before joining the University of Florida, I was a postdoctoral research associat
 I received my Ph.D. degree at the [https://csl.illinois.edu/ Coordinated Science Laboratory] and the [https://ece.illinois.edu/ Department of Electrical and Computer Engineering], [https://illinois.edu/ University of Illinois at Urbana-Champaign (UIUC)] in 2019. Before that, I received a B.S. degree (with honors) in [https://www.ee.tsinghua.edu.cn/en/ Electronic Engineering] from [https://www.tsinghua.edu.cn/en/index.htm Tsinghua University] in 2014. 
 
 == Research
-My research interests lie in the intersection of *machine learning*, *information theory* and *signal processing*. I leverage the tools from /information theory/ and /signal processing/ to develop theoretically justified learning algorithms with applications to /fair machine learning/, /uncertainty quantification/, and /anomaly detection/.  
+My research interests lie in the intersection of *machine learning*, *information theory* and *signal processing*. I leverage the tools from /information theory/ and /signal processing/ to develop theoretically justified learning algorithms for diverse applications, including [https://arxiv.org/pdf/2302.08077.pdf /fair machine learning/], [https://arxiv.org/pdf/2212.07359.pdf /uncertainty quantification/], [Conference/AAAI_2020.pdf /model compression/], and [Journal/Linear_test.pdf /anomaly detection/].  
 
-More broadly, the primary goal of my research is to lay information-theoretic foundations for the learning algorithms with limited labeled data, including transfer learning and semi-supervised learning, particularly with privacy, fairness, and/or communication constraints.
+More broadly, the primary goal of my research is to lay information-theoretic foundations for trustworthy learning algorithms, particularly with generalization, fairness, and privacy guarantees.
 
 
 == To Prospective Students
 
-PhD candidates: Students with strong backgrounds in *machine learning*, *signal processing*, *statistics*, and *information theory* are encouraged to reach out. 
+PhD candidates: *Self-motivated* students with strong backgrounds in *probability*, *statistics*, *machine learning*, and *information theory* are welcome to reach out.  You should be comfortable with writing and reading proofs and learning challenging new mathematical concepts; in other words, a decent [https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/ mathematical maturity] is required. 
 
 Please send me an email with the subject "Prospective Ph.D. Student" attached with your academic CV and undergraduate/graduate transcripts.
 
