@@ -45,20 +45,19 @@ Correlation]\n
 B. Hu, *Y. Bu*, J. C. Príncipe \n 
 arXiv preprint, May 2023.
 
-
 - [https://arxiv.org/pdf/2302.08077 Group Fairness with Uncertainty in Sensitive Attributes]\n
 A. Shah, M. Shen, J. J. Ryu, S. Das, P. Sattigeri, *Y. Bu*, G. W. Wornell \n 
 arXiv preprint, May 2023.
 
-- [https://arxiv.org/pdf/2202.00796 On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation]\n
+- [https://proceedings.mlr.press/v202/shen23b.html On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation]\n
 M. Shen, *Y. Bu*, G. W. Wornell \n 
 to appear in, International Conference on Machine Learning (ICML), Honolulu, Hawai'i, Jul. 2023. *(acceptance rate: 28%)*
 
-- [https://arxiv.org/pdf/2304.14332 On the Generalization Error of Meta Learning for the Gibbs Algorithm] \n
+- [Conference/ISIT_2023_Meta.pdf On the Generalization Error of Meta Learning for the Gibbs Algorithm] \n
 *Y. Bu*, H. V. Tetali, G. Aminian, M. R. Rodrigues, G. W. Wornell \n
 to appear in, IEEE International Symposium on Information Theory (ISIT), Taipei, Jun. 2023.
 
-- [https://arxiv.org/pdf/2305.08207 A Bilateral Bound on the Mean Squared Error for Estimation in Model Mismatch] \n
+- [Conference/ISIT_2023_Mismatch.pdf A Bilateral Bound on the Mean Squared Error for Estimation in Model Mismatch] \n
 A. Weiss, A. Lancho, *Y. Bu*, G. W. Wornell \n
 to appear in, IEEE International Symposium on Information Theory (ISIT), Taipei, Jun. 2023.
 
@@ -71,7 +70,7 @@ How Does Pseudo-Labeling Affect the Generalization Error of the Semi-Supervised 
 H. He, G. Aminian, *Y. Bu*, M. R. Rodrigues, V. YF Tan \n
 International Conference on Artificial Intelligence and Statistics (AISTATS), Valencia, Spain, Apr. 2023. *(acceptance rate: 29%)*
 
--  [https://arxiv.org/pdf/2212.07359 Post-hoc Uncertainty Learning using a Dirichlet Meta-Model]\n
+-  [https://ojs.aaai.org/index.php/AAAI/article/view/26167 Post-hoc Uncertainty Learning using a Dirichlet Meta-Model]\n
 M. Shen, *Y. Bu*, P. Sattigeri, S. S. Ghosh, S. Das, G. W. Wornell \n 
 AAAI Conference on Artificial Intelligence (AAAI), Washington DC, Feb. 2023. *(acceptance rate: 19%)* \n
 Code available at [https://github.com/maohaos2/PosthocUQ *Github*]
