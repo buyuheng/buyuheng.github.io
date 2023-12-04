@@ -26,7 +26,7 @@ I received my Ph.D. degree at the [https://csl.illinois.edu/ Coordinated Science
 == Research
 My research interests lie in the intersection of *machine learning*, *information theory* and *signal processing*. I leverage the tools from /information theory/ and /signal processing/ to develop theoretically justified learning algorithms for diverse applications, including [https://arxiv.org/pdf/2302.08077.pdf /fair machine learning/], [https://arxiv.org/pdf/2212.07359.pdf /uncertainty quantification/], [Conference/AAAI_2020.pdf /model compression/], and [Journal/Linear_test.pdf /anomaly detection/].  
 
-More broadly, the primary goal of my research is to lay information-theoretic foundations for trustworthy learning algorithms, particularly with generalization, fairness, and privacy guarantees.
+More broadly, the primary goal of my research is to lay information-theoretic foundations for trustworthy learning algorithms, particularly with generalization, fairness, and robustness guarantees.
 
 
 == To Prospective Students
@@ -37,6 +37,8 @@ Please send me an email with the subject "Prospective Ph.D. Student" attached wi
 
 
 == Selected Publications
+- M. Shen, *Y. Bu*, G. W. Wornell. [https://proceedings.mlr.press/v202/shen23b.html "On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation,"] International Conference on Machine Learning (ICML), Jul. 2023.
+- A. Shah\*, *Y. Bu*\*, J. K. Lee, P. Sattigeri, R. Panda, S. Das, G. W. Wornell. [https://proceedings.mlr.press/v162/shah22a.html "Selective Regression under Fairness Criteria,"] (\* equal contribution), International Conference on Machine Learning (ICML), Jul. 2022. 
 - *Y. Bu*\*, G. Aminian\*,  L. Toni, M. R. D. Rodrigues, G. W. Wornell. [https://proceedings.mlr.press/v151/bu22a.html "Characterizing and Understanding the Generalization Error of Transfer Learning with Gibbs Algorithm,"] (\* equal contribution), International Conference on Artificial Intelligence and Statistics (AISTATS), Mar. 2022. 
 - G. Aminian\*, *Y. Bu*\*, L. Toni, M. R. D. Rodrigues, G. W. Wornell. [https://papers.nips.cc/paper/2021/hash/445e24b5f22cacb9d51a837c10e91a3f-Abstract.html "An Exact Characterization of the Generalization Error for the Gibbs Algorithm,"] (\* equal contribution), Conference on Neural Information Processing Systems (NeurIPS), 2021. 
 - *Y. Bu*\*, J. K. Lee\*, D. Rajan, P. Sattigeri, R. Panda, S. Das, G. W. Wornell. [http://proceedings.mlr.press/v139/lee21b.html "Fair Selective

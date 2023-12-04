@@ -2,10 +2,10 @@
 = Publications
 
 
-== Journal Publications and Preprints
+== Journal Publications
 . [https://arxiv.org/pdf/2210.09864 Information-theoretic Characterizations of Generalization Error for the Gibbs Algorithm]\n
 G. Aminian\*, *Y. Bu*\*, L. Toni, M. R. Rodrigues, G. W. Wornell  (\* equal contribution)\n 
-to appear in, IEEE Transactions on Information Theory, 2023.
+to appear in, IEEE Transactions on Information Theory, Nov. 2023.
 \n
 . [https://www.mdpi.com/1099-4300/24/4/461/htm A Maximal Correlation Framework for Fair Machine Learning]\n
 *Y. Bu*\*, J. K. Lee\*, P. Sattigeri, R. Panda, G. W. Wornell, L. Karlinsky, R. S. Feris (\* equal contribution)\n
@@ -34,24 +34,36 @@ Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *
 
 
 
-== Conference Publications
+== Conference and Workshop Publications
 === 2023
-- [https://arxiv.org/pdf/2306.05583.pdf SGLD-Based Information Criteria and the Over-Parameterized Regime]\n
+- [https://arxiv.org/pdf/2306.05583.pdf Gibbs-Based Information Criteria and the Over-Parameterized Regime]\n
 H. Chen,  *Y. Bu*, G. W. Wornell \n 
-arXiv preprint, May 2023.
+NeurIPS Workshop on Mathematics of Modern Machine Learning (M3L), New Orleans, LA, Dec. 2023.
+
+- [https://openreview.net/pdf?id=W9QOkbGccr SAUC: Sparsity-Aware Uncertainty Calibration for Spatiotemporal Prediction with Graph Neural Networks]\n
+D. Zhuang, *Y. Bu*, G. Wang, S. Wang, J. Zhao \n
+NeurIPS Workshop on Temporal Graph Learning (TGL), New Orleans, LA, Dec. 2023. (*Spotlight talk*)
 
 - [https://arxiv.org/pdf/2305.20074.pdf Feature Learning in Image Hierarchies using Functional Maximal
 Correlation]\n
 B. Hu, *Y. Bu*, J. C. Príncipe \n 
-arXiv preprint, May 2023.
+NeurIPS Workshop on Self-Supervised Learning - Theory and Practice, New Orleans, LA, Dec. 2023. (*Spotlight talk*)
 
-- [https://arxiv.org/pdf/2302.08077 Group Fairness with Uncertainty in Sensitive Attributes]\n
-A. Shah, M. Shen, J. J. Ryu, S. Das, P. Sattigeri, *Y. Bu*, G. W. Wornell \n 
-arXiv preprint, May 2023.
+- Operator SVD with Neural Networks via Nested Low-Rank Approximation \n
+J. J. Ryu, X. Xu, H. SM Erol, *Y. Bu*, L. Zheng, G. W. Wornell \n  
+NeurIPS Workshop on Machine Learning and the Physical Sciences, New Orleans, LA, Dec. 2023.
 
 - [https://proceedings.mlr.press/v202/shen23b.html On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation]\n
 M. Shen, *Y. Bu*, G. W. Wornell \n 
-International Conference on Machine Learning (ICML), Honolulu, Hawai'i, Jul. 2023. *(acceptance rate: 28%)*
+International Conference on Machine Learning (ICML), Honolulu, HI, Jul. 2023. *(acceptance rate: 28%)*
+
+- Information-Theoretic Generalization Bounds for the Subtask Problem\n
+F. Laakom, *Y. Bu*, M. Gabbouj\n
+ICML workshop on PAC-Bayes Meets Interactive Learning, Honolulu, HI, Jul. 2023.
+
+- [https://arxiv.org/pdf/2302.08077 Group Fairness with Uncertainty in Sensitive Attributes]\n
+A. Shah, M. Shen, J. J. Ryu, S. Das, P. Sattigeri, *Y. Bu*, G. W. Wornell \n 
+ICML workshop on Spurious Correlations, Invariance and Stability, Honolulu, HI, Jul. 2023.
 
 - [Conference/ISIT_2023_Meta.pdf On the Generalization Error of Meta Learning for the Gibbs Algorithm] \n
 *Y. Bu*, H. V. Tetali, G. Aminian, M. R. Rodrigues, G. W. Wornell \n
