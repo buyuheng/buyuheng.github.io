@@ -1,0 +1,9 @@
+- Jul 2022, my collaborators and I were interviewed with [https://news.mit.edu/2022/fairness-accuracy-ai-models-0720 *MIT News*] for our recent ICML publication [https://proceedings.mlr.press/v162/shah22a.html "Selective Regression under Fairness Criteria."] Check out  [https://news.mit.edu/2022/fairness-accuracy-ai-models-0720 *here*]!
+- Jun 2022, our paper, "Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation," has been accepted by IEEE MLSP 2022.
+- May 2022, our paper, "Selective Regression under Fairness Criteria," has been accepted by ICML 2022 (acceptance rate: 22%)! 
+- Apr 2022, our paper, "Tighter Expected Generalization Error Bounds via Convexity of Information Measures," has been accepted by ISIT 2022.
+- Jan 2022, our paper, "A Maximal Correlation Approach to Imposing Fairness in Machine Learning," has been accepted by ICASSP 2022.
+- Jan 2022, our paper, "Characterizing and Understanding the Generalization Error of Transfer Learning with Gibbs Algorithm," has been accepted by AISTATS 2022 (acceptance rate: 29%)!
+- Sept 2021, our paper, "An Exact Characterization of the Generalization Error for the Gibbs Algorithm," has been accepted by NeurIPS 2021 (acceptance rate: 26%)!
+- Sept 2021, our paper, "Population Risk Improvement with Model Compression: An Information-Theoretic Approach," has been published in Entropy as part of the Special Issue Information Theory and Machine Learning.
+- May 2021, our paper, "Fair Selective Classification via Sufficiency," has been accepted by ICML 2021 (*Long Talk: Top 3%*)!
