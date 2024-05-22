@@ -52,7 +52,8 @@ to appear in, International Joint Conference on Artificial Intelligence (IJCAI),
 
 - [https://arxiv.org/pdf/2401.13927.pdf Adaptive Text Watermark for Large Language Models]\n
 Y. Liu, *Y. Bu*\n
-to appear in, International Conference on Machine Learning (ICML), Vienna, Austria, Jul. 2024. *(acceptance rate: 28%)*
+to appear in, International Conference on Machine Learning (ICML), Vienna, Austria, Jul. 2024. *(acceptance rate: 28%)*\n
+Code available at [https://github.com/yepengliu/adaptive-text-watermark/tree/main *Github*]
 
 
 - [https://arxiv.org/pdf/2402.03655.pdf Operator SVD with Neural Networks via Nested Low-Rank Approximation] \n
