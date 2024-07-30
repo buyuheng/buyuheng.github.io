@@ -38,7 +38,11 @@ Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *
 === 2024
 
 
-- [https://arxiv.org/pdf/2402.06160.pdf Improved Evidential Deep Learning via a Mixture of Dirichlet Distributions]\n
+- [https://arxiv.org/pdf/2407.13436 An Algorithm for Computing the Capacity of Symmetrized KL Information for Discrete Channels]\n
+H. Chen, G. Aminian,  *Y. Bu* \n 
+Preprint
+
+- [https://arxiv.org/pdf/2402.06160.pdf Are Uncertainty Quantification Capabilities of Evidential Deep Learning a Mirage?]\n
 J. J. Ryu, M. Shen, S. Ghosh, *Y. Bu*, P. Sattigeri, S. Das, G. W. Wornell \n  
 Preprint
 
@@ -46,34 +50,47 @@ Preprint
 F. Laakom, *Y. Bu*, M. Gabbouj\n
 Short version at ICML workshop on PAC-Bayes Meets Interactive Learning, Honolulu, HI, Jul. 2023.
 
+- Information-theoretic Analysis of the Gibbs Algorithm: An Individual Sample Approach\n
+Y. Zhu, *Y. Bu* \n 
+to appear in, IEEE Information Theory Workshop (ITW), Shenzhen, China, Nov. 2024.
+
+- Learning Orthonormal Features in Self-Supervised Learning using Functional Maximal Correlation \n
+B. Hu, *Y. Bu*, J. C. Príncipe \n 
+to appear in, IEEE International Conference on Image Processing (ICIP), Abu Dhabi, United Arab Emirates, Oct. 2024.\n
+[https://arxiv.org/pdf/2305.20074.pdf Short version] at
+NeurIPS Workshop on Self-Supervised Learning - Theory and Practice, New Orleans, LA, Dec. 2023. (*Spotlight talk*)
+
+
+
 - [https://arxiv.org/abs/2405.00157 Information-Theoretic Opacity-Enforcement in Markov Decision Processes]\n
 C. Shi, *Y. Bu*, J. Fu\n 
-to appear in, International Joint Conference on Artificial Intelligence (IJCAI), Jeju, Aug. 2024.\n
+International Joint Conference on Artificial Intelligence (IJCAI), Jeju, Aug. 2024. *(acceptance rate: 15%)*\n
 
-- [https://arxiv.org/pdf/2401.13927.pdf Adaptive Text Watermark for Large Language Models]\n
+- [https://proceedings.mlr.press/v235/liu24e.html Adaptive Text Watermark for Large Language Models]\n
 Y. Liu, *Y. Bu*\n
-to appear in, International Conference on Machine Learning (ICML), Vienna, Austria, Jul. 2024. *(acceptance rate: 28%)*\n
+International Conference on Machine Learning (ICML), Vienna, Austria, Jul. 2024. *(acceptance rate: 28%)*\n
 Code available at [https://github.com/yepengliu/adaptive-text-watermark/tree/main *Github*]
 
 
-- [https://arxiv.org/pdf/2402.03655.pdf Operator SVD with Neural Networks via Nested Low-Rank Approximation] \n
+- [https://proceedings.mlr.press/v235/ryu24b.html Operator SVD with Neural Networks via Nested Low-Rank Approximation] \n
 J. J. Ryu, X. Xu, H. SM Erol, *Y. Bu*, L. Zheng, G. W. Wornell \n  
-to appear in, International Conference on Machine Learning (ICML), Vienna, Austria, Jul. 2024. *(acceptance rate: 28%)*\n 
+International Conference on Machine Learning (ICML), Vienna, Austria, Jul. 2024. *(acceptance rate: 28%)*\n
+Code available at [https://github.com/jongharyu/neural-svd
+ *Github*]\n 
 [https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_225.pdf Short version] at NeurIPS Workshop on Machine Learning and the Physical Sciences, New Orleans, LA, Dec. 2023.
 
-
-- Towards Optimal Inverse Temperature in the Gibbs Algorithm\n
+- [Conference/ISIT_2024_Gibbs.pdf Towards Optimal Inverse Temperature in the Gibbs Algorithm]\n
 *Y. Bu*\n 
-to appear in, IEEE International Symposium on Information Theory (ISIT), Athens, Greece, Jul. 2024.\n
+IEEE International Symposium on Information Theory (ISIT), Athens, Greece, Jul. 2024.\n
 
 
-- [https://arxiv.org/pdf/2302.08077 Group Fairness with Uncertainty in Sensitive Attributes]\n
+- [Conference/ISIT_2024_Fair.pdf Group Fairness with Uncertainty in Sensitive Attributes]\n
 A. Shah, M. Shen, J. J. Ryu, S. Das, P. Sattigeri, *Y. Bu*, G. W. Wornell \n 
-to appear in, IEEE International Symposium on Information Theory (ISIT), Athens, Greece, Jul. 2024.\n
-Short version at ICML workshop on Spurious Correlations, Invariance and Stability, Honolulu, HI, Jul. 2023.
+IEEE International Symposium on Information Theory (ISIT), Athens, Greece, Jul. 2024.\n
+[https://arxiv.org/pdf/2302.08077 Full version] at ICML workshop on Spurious Correlations, Invariance and Stability, Honolulu, HI, Jul. 2023.
 
 
-- [https://arxiv.org/pdf/2306.05583.pdf Gibbs-Based Information Criteria and the Over-Parameterized Regime]\n
+- [https://proceedings.mlr.press/v238/chen24g Gibbs-Based Information Criteria and the Over-Parameterized Regime]\n
 H. Chen, G. W. Wornell,  *Y. Bu* \n 
 International Conference on Artificial Intelligence and Statistics (AISTATS), Valencia, Spain, May 2024. *(acceptance rate: 28%)*\n
 [https://openreview.net/pdf?id=SU6KGZweUJ Short version] at NeurIPS Workshop on Mathematics of Modern Machine Learning (M3L), New Orleans, LA, Dec. 2023.
@@ -84,10 +101,6 @@ International Conference on Artificial Intelligence and Statistics (AISTATS), Va
 D. Zhuang, *Y. Bu*, G. Wang, S. Wang, J. Zhao \n
 NeurIPS Workshop on Temporal Graph Learning (TGL), New Orleans, LA, Dec. 2023. (*Spotlight talk*)
 
-- [https://arxiv.org/pdf/2305.20074.pdf Feature Learning in Image Hierarchies using Functional Maximal
-Correlation]\n
-B. Hu, *Y. Bu*, J. C. Príncipe \n 
-NeurIPS Workshop on Self-Supervised Learning - Theory and Practice, New Orleans, LA, Dec. 2023. (*Spotlight talk*)
 
 - [https://proceedings.mlr.press/v202/shen23b.html On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation]\n
 M. Shen, *Y. Bu*, G. W. Wornell \n 

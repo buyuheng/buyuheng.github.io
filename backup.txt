@@ -1,4 +1,6 @@
-
+- Jan 2023, our paper, "Reliable Gradient-free and Likelihood-free Prompt Tuning," has been accepted by Findings of EACL 2023!
+- Jan 2023, our paper, "How Does Pseudo-Labeling Affect the Generalization Error of the Semi-Supervised  Gibbs Algorithm?" has been accepted by AISTATS 2023 (acceptance rate: 29%)!
+- Nov 2022, our paper, "Post-hoc Uncertainty Learning using a Dirichlet Meta-Model," has been accepted by AAAI 2023 (acceptance rate: 19%)! 
 - Aug 2022, our paper, "Exploiting Temporal Structures of Cyclostationary Signals for Data-Driven Single-Channel Source Separation," has been awarded as [https://2022.ieeemlsp.org/2022/08/25/best-student-paper-contest-results/ *Best Student Paper*] by IEEE MLSP 2022.
 - Aug 2022, [https://pronics2004.github.io/ Dr. Prasanna Sattigeri] and I are serving as Guest Editors for the Entropy Special Issue [https://www.mdpi.com/journal/entropy/special_issues/Fairness_Mach_Learn *"Fairness in Machine Learning: Information Theoretic Perspectives."*] We warmly invite you to contribute an *article or extended conference paper* for this Special Issue.
 - Aug 2022, our paper, "Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals," has been accepted by GLOBECOM 2022.
@@ -11,3 +13,8 @@
 - Sept 2021, our paper, "An Exact Characterization of the Generalization Error for the Gibbs Algorithm," has been accepted by NeurIPS 2021 (acceptance rate: 26%)!
 - Sept 2021, our paper, "Population Risk Improvement with Model Compression: An Information-Theoretic Approach," has been published in Entropy as part of the Special Issue Information Theory and Machine Learning.
 - May 2021, our paper, "Fair Selective Classification via Sufficiency," has been accepted by ICML 2021 (*Long Talk: Top 3%*)!
+
+- [https://arxiv.org/pdf/2305.20074.pdf Feature Learning in Image Hierarchies using Functional Maximal
+Correlation]\n
+B. Hu, *Y. Bu*, J. C. Pr铆ncipe \n 
+NeurIPS Workshop on Self-Supervised Learning - Theory and Practice, New Orleans, LA, Dec. 2023. (*Spotlight talk*)

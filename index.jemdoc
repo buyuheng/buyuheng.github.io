@@ -38,7 +38,7 @@ Please send me an email with the subject "Prospective Ph.D. Student" attached wi
 
 == Selected Publications
 - Y. Liu, *Y. Bu*.
-[https://arxiv.org/abs/2401.13927 "Adaptive Text Watermark for Large Language Models"] International Conference on Machine Learning (ICML), Jul. 2024.
+[https://proceedings.mlr.press/v235/liu24e.html "Adaptive Text Watermark for Large Language Models"] International Conference on Machine Learning (ICML), Jul. 2024.
 - M. Shen, *Y. Bu*, G. W. Wornell. [https://proceedings.mlr.press/v202/shen23b.html "On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation,"] International Conference on Machine Learning (ICML), Jul. 2023.
 - A. Shah\*, *Y. Bu*\*, J. K. Lee, P. Sattigeri, R. Panda, S. Das, G. W. Wornell. [https://proceedings.mlr.press/v162/shah22a.html "Selective Regression under Fairness Criteria,"] (\* equal contribution), International Conference on Machine Learning (ICML), Jul. 2022. 
 - G. Aminian\*, *Y. Bu*\*, L. Toni, M. R. D. Rodrigues, G. W. Wornell. [https://papers.nips.cc/paper/2021/hash/445e24b5f22cacb9d51a837c10e91a3f-Abstract.html "An Exact Characterization of the Generalization Error for the Gibbs Algorithm,"] (\* equal contribution), Conference on Neural Information Processing Systems (NeurIPS), 2021. 
@@ -52,6 +52,8 @@ Classification via Sufficiency,"] (\* equal contribution), International Confere
 
 
 == News
+- July 2024, our paper, "Information-theoretic Analysis of the Gibbs Algorithm: An Individual Sample Approach," have been accepted by ITW 2024. Additionally, we will organize a tutorial at ITW 2024 titled "Characterizing the Generalization Error of Machine Learning Algorithms Via Information Measures." Stay tuned!
+- June 2024, our paper, "Learning Orthonormal Features in Self-Supervised Learning using Functional Maximal Correlation," has been accepted by ICIP 2024.
 - May 2024, two papers accepted at ICML 2024 (acceptance rate: 28%)! 
 -- The first paper, [https://arxiv.org/abs/2401.13927 "Adaptive Text Watermark for Large Language Models"] proposes a watermarking technique that distinguishes AI/human-generated text. This is Yepeng's first paper since he joined the group! Congrats! 
 -- The second paper, [https://arxiv.org/abs/2402.03655 "Operator SVD with Neural Networks via Nested Low-Rank Approximation,"] proposes a new optimization framework that can train neural networks to learn the top singular functions of a given operator. 
@@ -70,7 +72,4 @@ Classification via Sufficiency,"] (\* equal contribution), International Confere
 - Jan 2023, our paper, "Adaptive Sequential Machine Learning," has been selected as the winner of the 16th *Abraham Wald Prize* in Sequential Analysis!
 - Jan 2023, I have co-organized the [https://meyn.ece.ufl.edu/c3/6th-workshop-on-cognition-control/ *6th Annual Workshop on Cognition & Control*] together with [https://meyn.ece.ufl.edu/about/ Prof. Sean Meyn], [https://saxena.ece.ufl.edu/ Prof. Shreya Saxena] at UF Reitz Union. Talks include topics such as reinforcement learning, accelerated optimization, information theory, brain-machine interface systems, and much more!
 - Jan 2023, I gave a virtual presentation "From Sensitivity-constrained Information Bottleneck to Fair Selective Prediction" at [https://ims.nus.edu.sg/events/information-theory-and-data-science-workshop/ Information Theory and Data Science Workshop] organized by National University of Singapore.
-- Jan 2023, our paper, "Reliable Gradient-free and Likelihood-free Prompt Tuning," has been accepted by Findings of EACL 2023!
-- Jan 2023, our paper, "How Does Pseudo-Labeling Affect the Generalization Error of the Semi-Supervised  Gibbs Algorithm?" has been accepted by AISTATS 2023 (acceptance rate: 29%)!
-- Nov 2022, our paper, "Post-hoc Uncertainty Learning using a Dirichlet Meta-Model," has been accepted by AAAI 2023 (acceptance rate: 19%)! 
 
