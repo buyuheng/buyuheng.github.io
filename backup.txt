@@ -18,3 +18,8 @@
 Correlation]\n
 B. Hu, *Y. Bu*, J. C. Pr铆ncipe \n 
 NeurIPS Workshop on Self-Supervised Learning - Theory and Practice, New Orleans, LA, Dec. 2023. (*Spotlight talk*)
+
+
+- [https://arxiv.org/pdf/1805.11710 Active and Adaptive Sequential learning]\n
+*Y. Bu*, J. Lu, V. V. Veeravalli \n 
+arXiv preprint, 2020. \n
