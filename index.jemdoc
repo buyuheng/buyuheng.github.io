@@ -52,6 +52,11 @@ Classification via Sufficiency,"] (\* equal contribution), International Confere
 
 
 == News
+- Nov 24 2024, I will present the tutorial [https://www.ieee-itw2024.org/Tutorials *"Characterizing the Generalization Error of Machine Learning Algorithms Via Information Measures"*] at the IEEE Information Theory Workshop (ITW2024), Shenzhen, China! \n
+Jointly with Gholamali Aminian (The Alan Turing Institute, UK), Samir M. Perlaza (INRIA, France), and Iñaki Esnaola (University of Sheffield, UK). \n
+[https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial.pdf All Slides], [https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial-PartI.pdf *Slides Part I (Yuheng Bu)*], [https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial-PartII.pdf *Slides Part II (Yuheng Bu)*], [https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial-PartIII.pdf Slides Part III (Samir Perlaza)], [https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial-PartIV.pdf Slides Part IV (Samir Perlaza)]
+
+
 - Sep 2024, our paper, "Are Uncertainty Quantification Capabilities of Evidential Deep Learning a Mirage?" has been accepted by NeurIPS 2024 (acceptance rate: 26%)!
 - July 2024, our paper, "Information-theoretic Analysis of the Gibbs Algorithm: An Individual Sample Approach," have been accepted by ITW 2024. Additionally, we will organize a tutorial at ITW 2024 titled "Characterizing the Generalization Error of Machine Learning Algorithms Via Information Measures." Stay tuned!
 - June 2024, our paper, "Learning Orthonormal Features in Self-Supervised Learning using Functional Maximal Correlation," has been accepted by ICIP 2024.
