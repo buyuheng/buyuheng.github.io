@@ -39,7 +39,7 @@ Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *
 
 - [https://arxiv.org/pdf/2410.05470 Image Watermarks are Removable using Controllable Regeneration from Clean Noise]\n 
 Y. Liu, Y. Song, H. Ci, Y. Zhang, H. Wang, Z. Shou, *Y. Bu*.\n 
-To appear in, International Conference on Machine Learning (ICLR), Singapore, Apr. 2025.
+To appear in, International Conference on Machine Learning (*ICLR*), Singapore, Apr. 2025. *(acceptance rate: 32%)* \n
 
 - [https://arxiv.org/pdf/2410.02890 Universally Optimal Watermarking Schemes for LLMs: from Theory to Practice]\n
 H. He, Y. Liu, Z. Wang, Y. Mao, *Y. Bu*
@@ -54,7 +54,6 @@ Short version at ICML workshop on PAC-Bayes Meets Interactive Learning, Honolulu
 - [https://arxiv.org/pdf/2402.06160.pdf Are Uncertainty Quantification Capabilities of Evidential Deep Learning a Mirage?]\n
 J. J. Ryu, M. Shen, S. Ghosh, *Y. Bu*, P. Sattigeri, S. Das, G. W. Wornell \n  
 Conference on Neural Information Processing Systems (*NeurIPS*), Dec. 2024. *(acceptance rate: 26%)* \n
-
 
 - [Conference/ITW_2024.pdf Information-theoretic Analysis of the Gibbs Algorithm: An Individual Sample Approach]\n
 Y. Zhu, *Y. Bu* \n 
