@@ -35,37 +35,46 @@ Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *
 
 
 == Conference and Workshop Publications
-=== 2024
+=== 2025
 
+- [https://arxiv.org/pdf/2410.05470 Image Watermarks are Removable using Controllable Regeneration from Clean Noise]\n 
+Y. Liu, Y. Song, H. Ci, Y. Zhang, H. Wang, Z. Shou, *Y. Bu*.\n 
+To appear in, International Conference on Machine Learning (ICLR), Singapore, Apr. 2025.
+
+- [https://arxiv.org/pdf/2410.02890 Universally Optimal Watermarking Schemes for LLMs: from Theory to Practice]\n
+H. He, Y. Liu, Z. Wang, Y. Mao, *Y. Bu*
 
 - [https://arxiv.org/pdf/2401.02904.pdf Class-wise Generalization Error: an Information-Theoretic Analysis]\n
 F. Laakom, *Y. Bu*, M. Gabbouj\n
 Short version at ICML workshop on PAC-Bayes Meets Interactive Learning, Honolulu, HI, Jul. 2023.
 
+=== 2024
+
+
 - [https://arxiv.org/pdf/2402.06160.pdf Are Uncertainty Quantification Capabilities of Evidential Deep Learning a Mirage?]\n
 J. J. Ryu, M. Shen, S. Ghosh, *Y. Bu*, P. Sattigeri, S. Das, G. W. Wornell \n  
-to apear in, Conference on Neural Information Processing Systems (*NeurIPS*), Dec. 2024. *(acceptance rate: 26%)* \n
+Conference on Neural Information Processing Systems (*NeurIPS*), Dec. 2024. *(acceptance rate: 26%)* \n
 
 
-- Information-theoretic Analysis of the Gibbs Algorithm: An Individual Sample Approach\n
+- [Conference/ITW_2024.pdf Information-theoretic Analysis of the Gibbs Algorithm: An Individual Sample Approach]\n
 Y. Zhu, *Y. Bu* \n 
-to appear in, IEEE Information Theory Workshop (ITW), Shenzhen, China, Nov. 2024.
+IEEE Information Theory Workshop (ITW), Shenzhen, China, Nov. 2024.
 
-- [https://openreview.net/pdf?id=W9QOkbGccr SAUC: Sparsity-Aware Uncertainty Calibration for Spatiotemporal Prediction with Graph Neural Networks]\n
+- [https://dl.acm.org/doi/pdf/10.1145/3678717.3691241 SAUC: Sparsity-Aware Uncertainty Calibration for Spatiotemporal Prediction with Graph Neural Networks]\n
 D. Zhuang, *Y. Bu*, G. Wang, S. Wang, J. Zhao \n
-to appear in, International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL), Atlanta, GA, Oct. 2024 \n
+International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL), Atlanta, GA, Oct. 2024 \n
 [https://mobility.mit.edu/sites/default/files/zhuang_sauc.pdf Short version] at NeurIPS Workshop on Temporal Graph Learning (TGL), New Orleans, LA, Dec. 2023. (*Spotlight talk*)
 
-- [https://arxiv.org/pdf/2305.20074.pdf Learning Orthonormal Features in Self-Supervised Learning using Functional Maximal Correlation] \n
+- [Conference/ICIP_2024.pdf Learning Orthonormal Features in Self-Supervised Learning using Functional Maximal Correlation] \n
 B. Hu, *Y. Bu*, J. C. Príncipe \n 
-to appear in, IEEE International Conference on Image Processing (ICIP), Abu Dhabi, United Arab Emirates, Oct. 2024.\n
+IEEE International Conference on Image Processing (ICIP), Abu Dhabi, United Arab Emirates, Oct. 2024.\n
 [https://arxiv.org/pdf/2305.20074.pdf Short version] at NeurIPS Workshop on Self-Supervised Learning - Theory and Practice, New Orleans, LA, Dec. 2023. (*Spotlight talk*)
 
-- [https://arxiv.org/pdf/2407.13436 An Algorithm for Computing the Capacity of Symmetrized KL Information for Discrete Channels]\n
+- [Conference/Allerton_2024.pdf An Algorithm for Computing the Capacity of Symmetrized KL Information for Discrete Channels]\n
 H. Chen, G. Aminian,  *Y. Bu* \n 
-to appear in, Allerton Conference on Communication, Control, and Computing (Allerton), Urbana, IL, Sep. 2024
+Allerton Conference on Communication, Control, and Computing (Allerton), Urbana, IL, Sep. 2024
 
-- [https://arxiv.org/abs/2405.00157 Information-Theoretic Opacity-Enforcement in Markov Decision Processes]\n
+- [https://www.ijcai.org/proceedings/2024/749 Information-Theoretic Opacity-Enforcement in Markov Decision Processes]\n
 C. Shi, *Y. Bu*, J. Fu\n 
 International Joint Conference on Artificial Intelligence (*IJCAI*), Jeju, Korea, Aug. 2024. *(acceptance rate: 15%)*\n
 

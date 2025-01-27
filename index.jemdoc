@@ -37,10 +37,11 @@ Please send me an email with the subject "Prospective Ph.D. Student" attached wi
 
 
 == Selected Publications
+- Y. Liu, Y. Song, H. Ci, Y. Zhang, H. Wang, Z. Shou, *Y. Bu*.
+[https://arxiv.org/pdf/2410.05470 "Image Watermarks are Removable using Controllable Regeneration from Clean Noise,"] International Conference on Machine Learning (ICLR), Apr. 2025.
 - Y. Liu, *Y. Bu*.
-[https://proceedings.mlr.press/v235/liu24e.html "Adaptive Text Watermark for Large Language Models"] International Conference on Machine Learning (ICML), Jul. 2024.
+[https://proceedings.mlr.press/v235/liu24e.html "Adaptive Text Watermark for Large Language Models,"] International Conference on Machine Learning (ICML), Jul. 2024.
 - M. Shen, *Y. Bu*, G. W. Wornell. [https://proceedings.mlr.press/v202/shen23b.html "On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation,"] International Conference on Machine Learning (ICML), Jul. 2023.
-- A. Shah\*, *Y. Bu*\*, J. K. Lee, P. Sattigeri, R. Panda, S. Das, G. W. Wornell. [https://proceedings.mlr.press/v162/shah22a.html "Selective Regression under Fairness Criteria,"] (\* equal contribution), International Conference on Machine Learning (ICML), Jul. 2022. 
 - G. Aminian\*, *Y. Bu*\*, L. Toni, M. R. D. Rodrigues, G. W. Wornell. [https://papers.nips.cc/paper/2021/hash/445e24b5f22cacb9d51a837c10e91a3f-Abstract.html "An Exact Characterization of the Generalization Error for the Gibbs Algorithm,"] (\* equal contribution), Conference on Neural Information Processing Systems (NeurIPS), 2021. 
 - *Y. Bu*\*, J. K. Lee\*, D. Rajan, P. Sattigeri, R. Panda, S. Das, G. W. Wornell. [http://proceedings.mlr.press/v139/lee21b.html "Fair Selective
 Classification via Sufficiency,"] (\* equal contribution), International Conference on Machine Learning (ICML), Jul. 2021. *(Long Talk, Top 3%)*
@@ -52,6 +53,7 @@ Classification via Sufficiency,"] (\* equal contribution), International Confere
 
 
 == News
+- Jan 2024, our paper, "Image Watermarks are Removable using Controllable Regeneration from Clean Noise" has been accepted by ICLR 2025 (acceptance rate: 32%)!
 - Nov 24 2024, I will present the tutorial [https://www.ieee-itw2024.org/Tutorials *"Characterizing the Generalization Error of Machine Learning Algorithms Via Information Measures"*] at the IEEE Information Theory Workshop (ITW2024), Shenzhen, China! \n
 Jointly with Gholamali Aminian (The Alan Turing Institute, UK), Samir M. Perlaza (INRIA, France), and Iñaki Esnaola (University of Sheffield, UK). \n
 [https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial.pdf All Slides], [https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial-PartI.pdf *Slides Part I (Yuheng Bu)*], [https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial-PartII.pdf *Slides Part II (Yuheng Bu)*], [https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial-PartIII.pdf Slides Part III (Samir Perlaza)], [https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial-PartIV.pdf Slides Part IV (Samir Perlaza)]
