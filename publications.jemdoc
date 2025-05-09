@@ -53,8 +53,13 @@ H. He, Y. Liu, Z. Wang, Y. Mao, *Y. Bu*
 F. Laakom, *Y. Bu*, M. Gabbouj\n
 Short version at ICML workshop on PAC-Bayes Meets Interactive Learning, Honolulu, HI, Jul. 2023.
 
+- Fairness Overfitting in Machine Learning: An Information-Theoretic Perspective\n
+F. Laakom, H. Chen, J. Schmidhuber, *Y. Bu*\n
+International Conference on Machine Learning (*ICML*), Vancouver, Canada, Jul. 2025. *(acceptance rate: 29%)*\n
+
+
 - [https://arxiv.org/pdf/2410.05470 Image Watermarks are Removable using Controllable Regeneration from Clean Noise]\n 
-Y. Liu, Y. Song, H. Ci, Y. Zhang, H. Wang, Z. Shou, *Y. Bu*.\n 
+Y. Liu, Y. Song, H. Ci, Y. Zhang, H. Wang, Z. Shou, *Y. Bu*\n 
 International Conference on Machine Learning (*ICLR*), Singapore, Apr. 2025. *(acceptance rate: 32%)* \n
 Code available at [https://github.com/yepengliu/CtrlRegen *Github*]
 

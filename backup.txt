@@ -23,3 +23,10 @@ NeurIPS Workshop on Self-Supervised Learning - Theory and Practice, New Orleans,
 - [https://arxiv.org/pdf/1805.11710 Active and Adaptive Sequential learning]\n
 *Y. Bu*, J. Lu, V. V. Veeravalli \n 
 arXiv preprint, 2020. \n
+
+
+== To Prospective Students
+
+PhD candidates: *Self-motivated* students with strong backgrounds in *probability*, *statistics*, *machine learning*, and *information theory* are welcome to reach out.  You should be comfortable with writing and reading proofs and learning challenging new mathematical concepts; in other words, a decent [https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/ mathematical maturity] is required. 
+
+Please send me an email with the subject "Prospective Ph.D. Student" attached with your academic CV and undergraduate/graduate transcripts.

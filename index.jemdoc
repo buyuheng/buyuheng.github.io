@@ -18,22 +18,18 @@ Email: buyuheng \[at\] {ufl} \[dot\] edu  \n
 ~~~
 
 == Biography
+*Starting in July 2025, I will be joining the [https://www.cs.ucsb.edu/ Department of Computer Science (CS)] at [https://www.ucsb.edu/ University of California, Santa Barbara].* You can read my [https://engineering.ucsb.edu/news/q-new-coe-faculty-yuheng-bu Q & A interview] with [https://engineering.ucsb.edu/ UCSB College of Engineering].
+
 I am an Assistant Professor in the [https://www.ece.ufl.edu/ Department of Electrical & Computer Engineering (ECE)]  at [https://www.ufl.edu/ University of Florida]. 
 
 Before joining the University of Florida, I was a postdoctoral research associate at the [https://www.rle.mit.edu/ Research Laboratory of Electronics] and [https://idss.mit.edu/ Institute for Data, Systems, and Society (IDSS)], [https://www.mit.edu/ Massachusetts Institute of Technology (MIT)]. 
 I received my Ph.D. degree at the [https://csl.illinois.edu/ Coordinated Science Laboratory] and the [https://ece.illinois.edu/ Department of Electrical and Computer Engineering], [https://illinois.edu/ University of Illinois at Urbana-Champaign (UIUC)] in 2019. Before that, I received a B.S. degree (with honors) in [https://www.ee.tsinghua.edu.cn/en/ Electronic Engineering] from [https://www.tsinghua.edu.cn/en/index.htm Tsinghua University] in 2014. 
 
 == Research
-My research interests lie in the intersection of *machine learning*, *information theory* and *signal processing*. I leverage the tools from /information theory/ and /signal processing/ to develop theoretically justified learning algorithms for diverse applications, including [https://arxiv.org/abs/2401.13927 /watermarking generative AI/], [https://arxiv.org/pdf/2302.08077.pdf /fair machine learning/], [https://arxiv.org/pdf/2212.07359.pdf /uncertainty quantification/], [Conference/AAAI_2020.pdf /model compression/].  
+My research interests lie in the intersection of *machine learning*, *information theory* and *signal processing*. I leverage the tools from /information theory/ and /signal processing/ to develop theoretically justified learning algorithms for diverse applications, including [https://proceedings.mlr.press/v235/liu24e.html /watermarking generative AI/], [https://proceedings.mlr.press/v162/shah22a.html /fair machine learning/], [https://papers.nips.cc/paper_files/paper/2024/hash/c3177be226ee12e34d6ba3b5e6fe6a5b-Abstract-Conference.html /uncertainty quantification/], [Conference/AAAI_2020.pdf /model compression/].  
 
 More broadly, the primary goal of my research is to lay information-theoretic foundations for trustworthy learning algorithms, particularly with generalization, fairness, and robustness guarantees.
 
-
-== To Prospective Students
-
-PhD candidates: *Self-motivated* students with strong backgrounds in *probability*, *statistics*, *machine learning*, and *information theory* are welcome to reach out.  You should be comfortable with writing and reading proofs and learning challenging new mathematical concepts; in other words, a decent [https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/ mathematical maturity] is required. 
-
-Please send me an email with the subject "Prospective Ph.D. Student" attached with your academic CV and undergraduate/graduate transcripts.
 
 
 == Selected Publications
@@ -53,12 +49,12 @@ Classification via Sufficiency,"] (\* equal contribution), International Confere
 
 
 == News
-- Jan 2024, our paper, "Image Watermarks are Removable using Controllable Regeneration from Clean Noise" has been accepted by ICLR 2025 (acceptance rate: 32%)!
+- May 2025, our paper, "Fairness Overfitting in Machine Learning: An Information-Theoretic Perspective" has been accepted by ICML 2025 (acceptance rate: 27%)!
+- Mar 2025, I have co-organized the [https://meyn.ece.ufl.edu/c3/c3-8/ *8th Annual Workshop on Cognition & Control*] together with [https://meyn.ece.ufl.edu/about/ Prof. Sean Meyn], [https://fujie.ece.ufl.edu/ Prof. Jie Fu] at UF Reitz Union. 
+- Jan 2025, our paper, "Image Watermarks are Removable using Controllable Regeneration from Clean Noise" has been accepted by ICLR 2025 (acceptance rate: 32%)!
 - Nov 24 2024, I will present the tutorial [https://www.ieee-itw2024.org/Tutorials *"Characterizing the Generalization Error of Machine Learning Algorithms Via Information Measures"*] at the IEEE Information Theory Workshop (ITW2024), Shenzhen, China! \n
 Jointly with Gholamali Aminian (The Alan Turing Institute, UK), Samir M. Perlaza (INRIA, France), and Iñaki Esnaola (University of Sheffield, UK). \n
 [https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial.pdf All Slides], [https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial-PartI.pdf *Slides Part I (Yuheng Bu)*], [https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial-PartII.pdf *Slides Part II (Yuheng Bu)*], [https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial-PartIII.pdf Slides Part III (Samir Perlaza)], [https://www-sop.inria.fr/members/Samir.Perlaza/Slides/2024-ITW-Tutorial-PartIV.pdf Slides Part IV (Samir Perlaza)]
-
-
 - Sep 2024, our paper, "Are Uncertainty Quantification Capabilities of Evidential Deep Learning a Mirage?" has been accepted by NeurIPS 2024 (acceptance rate: 26%)!
 - July 2024, our paper, "Information-theoretic Analysis of the Gibbs Algorithm: An Individual Sample Approach," have been accepted by ITW 2024. Additionally, we will organize a tutorial at ITW 2024 titled "Characterizing the Generalization Error of Machine Learning Algorithms Via Information Measures." Stay tuned!
 - June 2024, our paper, "Learning Orthonormal Features in Self-Supervised Learning using Functional Maximal Correlation," has been accepted by ICIP 2024.
@@ -67,7 +63,7 @@ Jointly with Gholamali Aminian (The Alan Turing Institute, UK), Samir M. Perlaza
 -- The second paper, [https://arxiv.org/abs/2402.03655 "Operator SVD with Neural Networks via Nested Low-Rank Approximation,"] proposes a new optimization framework that can train neural networks to learn the top singular functions of a given operator. 
 - Apr 2024, our paper, [https://arxiv.org/abs/2405.00157 "Information-Theoretic Opacity-Enforcement in Markov Decision Processes,"] has been accepted by IJCAI 2024.
 - Apr 2024, two papers, "Towards Optimal Inverse Temperature in the Gibbs Algorithm" and "Group Fairness with Uncertain Sensitive Attributes," have been accepted by ISIT 2024.
-- March 2024, I presented our paper [https://arxiv.org/abs/2401.13927 "Adaptive Text Watermark for Large Language Models"] at [https://ee-ciss.princeton.edu/ Annual Conference on Information Science and Systems (CISS)], Princeton, NJ. 
+- Mar 2024, I presented our paper [https://arxiv.org/abs/2401.13927 "Adaptive Text Watermark for Large Language Models"] at [https://ee-ciss.princeton.edu/ Annual Conference on Information Science and Systems (CISS)], Princeton, NJ. 
 - Jan 2024, I have co-organized the [https://meyn.ece.ufl.edu/c3/7th-workshop-on-cognition-control/ *7th Annual Workshop on Cognition & Control*] together with [https://meyn.ece.ufl.edu/about/ Prof. Sean Meyn], [https://fujie.ece.ufl.edu/ Prof. Jie Fu] at UF Reitz Union. Talks include topics such as reinforcement learning, accelerated optimization, information theory, brain-machine interface systems, and much more!
 - Jan 2024, our paper, [https://proceedings.mlr.press/v238/chen24g.html "Gibbs-Based Information Criteria and the Over-Parameterized Regime"] has been accepted by AISTATS 2024 (acceptance rate: 28%)! This is my student Haobo's first paper, Congrats to Haobo! 
 - Oct 2023, our paper, [https://arxiv.org/pdf/2210.09864 "Information-theoretic Characterizations of Generalization Error for the Gibbs Algorithm"] has been accepted for publication on IEEE Transactions on Information Theory.
