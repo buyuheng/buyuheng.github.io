@@ -44,8 +44,7 @@ Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *
 - [https://arxiv.org/pdf/2505.16934 In-Context Watermarks for Large Language Models]\n
 Y. Liu, X. Zhao, C. Kruegel, D. Song, *Y. Bu*
 
-- [https://arxiv.org/pdf/2504.06575 Defending LLM Watermarking Against Spoofing Attacks with Contrastive Representation Learning]\n
-L. An, Y. Liu, Y. Liu, Y. Zhang, *Y. Bu*, S. Chang 
+
 
 - [https://arxiv.org/pdf/2502.10673 Dataset Protection via Watermarked Canaries in Retrieval-Augmented LLMs]\n
 Y. Liu, X. Zhao, D. Song, *Y. Bu*
@@ -55,6 +54,10 @@ H. He, Y. Liu, Z. Wang, Y. Mao, *Y. Bu*
 
 - [https://arxiv.org/pdf/2501.16558 Distributional Information Embedding: A Framework for Multi-bit Watermarking]\n
 H. He, Y. Liu, Z. Wang, Y. Mao, *Y. Bu*
+
+- [https://arxiv.org/pdf/2504.06575 Defending LLM Watermarking Against Spoofing Attacks with Contrastive Representation Learning]\n
+L. An, Y. Liu, Y. Liu, Y. Zhang, *Y. Bu*, S. Chang \n
+to appear in, Conference on Language Modeling (*COLM*), Montreal, Canada, Oct. 2025 *(acceptance rate: 32%)*\n
 
 - [https://www.arxiv.org/pdf/2506.07861 Fairness Overfitting in Machine Learning: An Information-Theoretic Perspective]\n
 F. Laakom, H. Chen, J. Schmidhuber, *Y. Bu*\n
