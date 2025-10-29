@@ -1,0 +1,53 @@
+# jemdoc: menu{MENU}{itml.html}
+= CMPSC 292F: Information-theortic Methods for Trustworthy Learning (Winter 2026)
+
+Department of [https://www.cs.ucsb.edu/ Computer Science], [https://www.ucsb.edu/ UC Santa Barbara]
+\nLectures: TBA
+\nLocation: TBA
+\nClass Website: Canvas (TBA)
+\nDiscussion Site: Piazza (TBA)
+
+== Contact Information
+Instructor: Dr. [https://buyuheng.github.io/ Yuheng Bu]\n
+Office: HFH 1117\n
+Email: buyuheng \[at\] ucsb \[dot\] edu\n
+Office Hours: TBA (HFH 1117)
+
+== Course Description
+This course explores fundamental tools for analyzing and designing **trustworthy machine learning** systems through the lens of **information theory**, **statistics**, and **learning theory**. We study reliability guarantees for modern models by quantifying generalization, fairness, privacy, and accountability. We will also introduce practical aspects of watermarking and IP protection for large generative models.
+
+Topics will include:
+- Information-theoretic foundations for generalization and sample complexity
+- Privacy (e.g., differential privacy) and leakage measures
+- Fairness constraints in learning
+- Watermarking for generative AI
+
+This course builds conceptual connections between theoretical principles and real-world trustworthy AI challenges.
+
+== Prerequisites
+Graduate standing in CS\/ECE\/Statistics or instructor consent.\n
+Comfort with probability, linear algebra, and basic machine learning concepts is expected.
+
+== Materials
+No required textbook.\n
+Lecture notes and curated readings will be posted on Canvas.\n
+Some general references on information theory are given below.
+- Joy A. Thomas and Thomas M. Cover. [http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf "Elements of Information Theory,"] Wiley-Interscience, 2006
+- Y. Polyanskiy and Y. Wu. [https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf "Information Theory: From Coding to Learning,"] Cambridge University Press, 2023 (book draft)
+
+
+== Tentative Topics and Schedule
+Week 1 — Course overview and foundations of statistical learning\n
+Week 2 — Information measures: entropy, KL, mutual information\n
+Week 3 — Concentration inequalities and information bounds\n
+Week 4 — Information-theoretic generalization bounds\n
+Week 5 — Privacy in machine learning (DP and accounting)\n
+Week 6 — Distribution shift and OOD detection\n
+Week 7 — Domain adaptation and domain generalization\n
+Week 8 — Fairness and constrained learning objectives\n
+Week 9 — Watermarking for LLMs and generative models\n
+Week 10 — Student presentations\n
+
+
+== Notes
+Logistics (lecture time, TAs, office hours, schedule) will be updated once Winter 2026 assignments are confirmed.
