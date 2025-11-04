@@ -14,7 +14,7 @@ Email: buyuheng \[at\] ucsb \[dot\] edu\n
 Office Hours: TBA (HFH 1117)
 
 == Course Description
-This course explores fundamental tools for analyzing and designing **trustworthy machine learning** systems through the lens of **information theory**, **statistics**, and **learning theory**. We study reliability guarantees for modern models by quantifying generalization, fairness, privacy, and accountability. We will also introduce practical aspects of watermarking and IP protection for large generative models.
+This course explores fundamental tools for analyzing and designing **trustworthy machine learning** systems through the lens of **information theory**, **statistics**, and **learning theory**. We study reliability guarantees for modern models by quantifying generalization, fairness and privacy. We will also introduce practical aspects of watermarking and IP protection for large generative models.
 
 Topics will include:
 - Information-theoretic foundations for generalization and sample complexity
