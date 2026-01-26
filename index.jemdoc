@@ -49,8 +49,12 @@ Classification via Sufficiency,"] (\* equal contribution), International Confere
 
 
 == News
-- Sep. 2025, our paper, "Theoretically Grounded Framework for LLM Watermarking: A Distribution-Adaptive Approach," has been accepted by NeurIPS 2025 (acceptance rate: 25%)!
-- Jul. 2025, our paper, "Defending LLM Watermarking Against Spoofing Attacks with Contrastive Representation Learning," has been accepted by COLM 2025 (acceptance rate: 32%)!
+
+- Jan. 2026, our paper, [https://arxiv.org/pdf/2505.16934 "In-Context Watermarks for Large Language Models"]  has been accepted by ICLR 2026  (acceptance rate: 28%)!
+- Jan. 2026, our paper, [https://arxiv.org/pdf/2510.21053 "A Reinforcement Learning Framework for Robust and Secure LLM Watermarking"]  has been accepted by EACL 2026  (acceptance rate: 20%)!
+- Nov. 2025, our paper, [https://arxiv.org/pdf/2601.13422 "TrustEnergy: A Unified Framework for Accurate and Reliable User-level Energy Usage Prediction"]  has been selected for an oral presentation at the AI for Social Impact Track at AAAI 2026 (acceptance rate: 24%)!
+- Sep. 2025, our paper, [https://arxiv.org/pdf/2410.02890 "Theoretically Grounded Framework for LLM Watermarking: A Distribution-Adaptive Approach"] has been accepted by NeurIPS 2025 (acceptance rate: 25%)!
+- Jul. 2025, our paper, [https://openreview.net/pdf?id=n5hmtkdl7k "Defending LLM Watermarking Against Spoofing Attacks with Contrastive Representation Learning"] has been accepted by COLM 2025 (acceptance rate: 32%)!
 - Jun. 2025, our paper, "Class-wise Generalization Error: An Information-Theoretic Analysis," has been accepted by Transactions on Machine Learning Research!
 - May 2025, our paper, "Fairness Overfitting in Machine Learning: An Information-Theoretic Perspective," has been accepted by ICML 2025 (acceptance rate: 27%)!
 - Mar. 2025, I have co-organized the [https://meyn.ece.ufl.edu/c3/c3-8/ *8th Annual Workshop on Cognition & Control*] together with [https://meyn.ece.ufl.edu/about/ Prof. Sean Meyn] and [https://fujie.ece.ufl.edu/ Prof. Jie Fu] at UF Reitz Union. 
@@ -64,10 +68,10 @@ Jointly with Gholamali Aminian (The Alan Turing Institute, UK), Samir M. Perlaza
 - May 2024, two papers accepted at ICML 2024 (acceptance rate: 28%)!  
 -- The first paper, [https://arxiv.org/abs/2401.13927 "Adaptive Text Watermark for Large Language Models"], proposes a watermarking technique that distinguishes AI/human-generated text. This is Yepeng's first paper since he joined the group! Congrats!  
 -- The second paper, [https://arxiv.org/abs/2402.03655 "Operator SVD with Neural Networks via Nested Low-Rank Approximation"], proposes a new optimization framework that can train neural networks to learn the top singular functions of a given operator. 
-- Apr. 2024, our paper, [https://arxiv.org/abs/2405.00157 "Information-Theoretic Opacity-Enforcement in Markov Decision Processes"], has been accepted by IJCAI 2024.
-- Apr. 2024, two papers, "Towards Optimal Inverse Temperature in the Gibbs Algorithm" and "Group Fairness with Uncertain Sensitive Attributes," have been accepted by ISIT 2024.
+- Apr. 2024, our paper, [https://arxiv.org/abs/2405.00157 "Information-Theoretic Opacity-Enforcement in Markov Decision Processes"] has been accepted by IJCAI 2024.
+- Apr. 2024, two papers, "Towards Optimal Inverse Temperature in the Gibbs Algorithm" and "Group Fairness with Uncertain Sensitive Attributes" have been accepted by ISIT 2024.
 - Mar. 2024, I presented our paper [https://arxiv.org/abs/2401.13927 "Adaptive Text Watermark for Large Language Models"] at [https://ee-ciss.princeton.edu/ Annual Conference on Information Science and Systems (CISS)], Princeton, NJ. 
 - Jan. 2024, I have co-organized the [https://meyn.ece.ufl.edu/c3/7th-workshop-on-cognition-control/ *7th Annual Workshop on Cognition & Control*] together with [https://meyn.ece.ufl.edu/about/ Prof. Sean Meyn] and [https://fujie.ece.ufl.edu/ Prof. Jie Fu] at UF Reitz Union. Talks include topics such as reinforcement learning, accelerated optimization, information theory, brain-machine interface systems, and much more!
-- Jan. 2024, our paper, [https://proceedings.mlr.press/v238/chen24g.html "Gibbs-Based Information Criteria and the Over-Parameterized Regime"], has been accepted by AISTATS 2024 (acceptance rate: 28%)! This is my student Haobo's first paper, Congrats to Haobo!
+- Jan. 2024, our paper, [https://proceedings.mlr.press/v238/chen24g.html "Gibbs-Based Information Criteria and the Over-Parameterized Regime,"] has been accepted by AISTATS 2024 (acceptance rate: 28%)! This is my student Haobo's first paper, Congrats to Haobo!
 
 

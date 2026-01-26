@@ -33,27 +33,30 @@ Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *
 
 
 == Conference and Workshop Publications
-=== 2025
 
-- [https://arxiv.org/pdf/2510.21053  A Reinforcement Learning Framework for Robust and Secure LLM Watermarking]\n
-L. An, Y. Liu, Y. Liu, *Y. Bu*, Y. Zhang, S. Chang\n
+=== 2026
 
 - [https://arxiv.org/pdf/2510.18333 Position: LLM Watermarking Should Align Stakeholders' Incentives for Practical Adoption]\n
 Y. Liu, X. Zhao, D. Song, G. W. Wornell, *Y. Bu*\n
-
-- [https://arxiv.org/pdf/2505.16934 In-Context Watermarks for Large Language Models]\n
-Y. Liu, X. Zhao, C. Kruegel, D. Song, *Y. Bu*\n
-Short version at ICML 2025 Workshop on Reliable and Responsible Foundation Models, Vancouver, Canada, Jul. 2025.
-
 
 - [https://arxiv.org/pdf/2502.10673 Dataset Protection via Watermarked Canaries in Retrieval-Augmented LLMs]\n
 Y. Liu, X. Zhao, D. Song, *Y. Bu*\n
 Short version at ICML 2025 Workshop on Reliable and Responsible Foundation Models, Vancouver, Canada, Jul. 2025.
 
+- [https://arxiv.org/pdf/2505.16934 In-Context Watermarks for Large Language Models]\n
+Y. Liu, X. Zhao, C. Kruegel, D. Song, *Y. Bu*\n
+To appear in, International Conference on Learning Representations (*ICLR*), Rio de Janeiro, Brazil, Apr. 2026. *(acceptance rate: 28%)*\n
+Short version at ICML 2025 Workshop on Reliable and Responsible Foundation Models, Vancouver, Canada, Jul. 2025.
 
-- TrustEnergy: A Unified Framework for Accurate and Reliable User-level Energy Usage Prediction\n
+- [https://arxiv.org/pdf/2510.21053  A Reinforcement Learning Framework for Robust and Secure LLM Watermarking]\n
+L. An, Y. Liu, Y. Liu, *Y. Bu*, Y. Zhang, S. Chang\n
+To appear in, European Chapter of the Association for Computational Linguistics (EACL), Rabat, Morocco, Mar. 2026.\n
+
+- [https://arxiv.org/pdf/2601.13422 TrustEnergy: A Unified Framework for Accurate and Reliable User-level Energy Usage Prediction]\n
 D. Yu, R. Xu, D. Zhuang, *Y. Bu*, S. Wang, G. Wang\n
-to appear in, AAAI Conference on Artificial Intelligence (*AAAI*), Special Track on AI for Social Impact, Singapore, Jan. 2026. *(acceptance rate: 24.1%)*\n
+AAAI Conference on Artificial Intelligence (*AAAI*), Special Track on AI for Social Impact, Singapore, Jan. 2026. *(acceptance rate: 24.1%)*\n
+
+=== 2025
 
 
 - [https://arxiv.org/pdf/2410.02890 Theoretically Grounded Framework for LLM Watermarking: A Distribution-Adaptive Approach]\n
@@ -169,7 +172,9 @@ AAAI Conference on Artificial Intelligence (*AAAI*), Washington DC, Feb. 2023. *
 Code available at [https://github.com/maohaos2/PosthocUQ *Github*]\n
 
 
-=== 2022
+
+=== Before 2023
+
 
 - [Conference/GlobalCom_2022.pdf Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals]\n
 A. Lancho, A. Weiss, G. C. Lee, J. Tang, *Y. Bu*, Y. Polyanskiy, G. W. Wornell\n
@@ -194,10 +199,6 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 - [https://proceedings.mlr.press/v151/bu22a.html Characterizing and Understanding the Generalization Error of Transfer Learning with Gibbs Algorithm]\n
 *Y. Bu*\*, G. Aminian\*, L. Toni, M. R. Rodrigues, G. W. Wornell (\* equal contribution)\n
 International Conference on Artificial Intelligence and Statistics (*AISTATS*), virtual, Mar. 2022. *(acceptance rate: 29%)*\n
-
-
-
-=== Before 2022
 
 - [https://papers.nips.cc/paper/2021/hash/445e24b5f22cacb9d51a837c10e91a3f-Abstract.html An Exact Characterization of the Generalization Error for the Gibbs Algorithm]\n
 G. Aminian\*, *Y. Bu*\*, L. Toni, M. R. Rodrigues, G. W. Wornell (\* equal contribution)\n
