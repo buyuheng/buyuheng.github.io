@@ -2,6 +2,9 @@
 = Publications
 
 == Journal Publications
+. [Journal/TRPB.pdf Graph Neural Networks for Residential Location Choice: Connection to Classical Logit Models]\n
+Z. Cheng, L. Hu, *Y. Bu*, Y. Zhou, S. Wang.\n
+Transportation Research Part B: Methodological, vol. 209, Art. 103464, Jul. 2026.\n
 . [https://openreview.net/pdf?id=asW4VcDFpi Class-wise Generalization Error: An Information-Theoretic Analysis]\n
 F. Laakom, M. Gabbouj, J. Schmidhuber, *Y. Bu*.\n
 Transactions on Machine Learning Research (TMLR), 2025.\n
@@ -36,21 +39,26 @@ Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *
 
 === 2026
 
-- [https://arxiv.org/pdf/2510.18333 Position: LLM Watermarking Should Align Stakeholders' Incentives for Practical Adoption]\n
-Y. Liu, X. Zhao, D. Song, G. W. Wornell, *Y. Bu*\n
-
 - [https://arxiv.org/pdf/2502.10673 Dataset Protection via Watermarked Canaries in Retrieval-Augmented LLMs]\n
 Y. Liu, X. Zhao, D. Song, *Y. Bu*\n
 Short version at ICML 2025 Workshop on Reliable and Responsible Foundation Models, Vancouver, Canada, Jul. 2025.
 
+- [https://arxiv.org/pdf/2602.01075 ConvexBench: Can LLMs Recognize Convex Functions?]\n
+Y. Liu, Y. Huang, Y.-X. Wang, Y. Liang, *Y. Bu*\n
+International Conference on Machine Learning (*ICML*), Seoul, South Korea, Jul. 2026. *(acceptance rate: 27%)*\n
+
+- [https://arxiv.org/pdf/2510.18333 Position: LLM Watermarking Should Align Stakeholders' Incentives for Practical Adoption]\n
+Y. Liu, X. Zhao, D. Song, G. W. Wornell, *Y. Bu*\n
+Findings of the Association for Computational Linguistics (*ACL*), San Diego, CA, USA, Jul. 2026. *(acceptance rate: 37%)*
+
 - [https://arxiv.org/pdf/2505.16934 In-Context Watermarks for Large Language Models]\n
 Y. Liu, X. Zhao, C. Kruegel, D. Song, *Y. Bu*\n
-To appear in, International Conference on Learning Representations (*ICLR*), Rio de Janeiro, Brazil, Apr. 2026. *(acceptance rate: 28%)*\n
+International Conference on Learning Representations (*ICLR*), Rio de Janeiro, Brazil, Apr. 2026. *(acceptance rate: 28%)*\n
 Short version at ICML 2025 Workshop on Reliable and Responsible Foundation Models, Vancouver, Canada, Jul. 2025.
 
 - [https://arxiv.org/pdf/2510.21053  A Reinforcement Learning Framework for Robust and Secure LLM Watermarking]\n
 L. An, Y. Liu, Y. Liu, *Y. Bu*, Y. Zhang, S. Chang\n
-To appear in, European Chapter of the Association for Computational Linguistics (EACL), Rabat, Morocco, Mar. 2026.\n
+European Chapter of the Association for Computational Linguistics (*EACL*), Rabat, Morocco, Mar. 2026. *(acceptance rate: 20%)*\n
 
 - [https://arxiv.org/pdf/2601.13422 TrustEnergy: A Unified Framework for Accurate and Reliable User-level Energy Usage Prediction]\n
 D. Yu, R. Xu, D. Zhuang, *Y. Bu*, S. Wang, G. Wang\n
