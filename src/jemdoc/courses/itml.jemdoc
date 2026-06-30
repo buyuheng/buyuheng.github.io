@@ -37,16 +37,16 @@ Some general references on information theory are given below.
 
 
 == Tentative Topics and Schedule
-Week 1 — Course overview and foundations of statistical learning\n
-Week 2 — Information measures: entropy, KL, mutual information\n
-Week 3 — Concentration inequalities and information bounds\n
-Week 4 — Information-theoretic generalization bounds\n
-Week 5 — Privacy in machine learning (DP and accounting)\n
-Week 6 — Distribution shift and OOD detection\n
-Week 7 — Domain adaptation and domain generalization\n
-Week 8 — Fairness and constrained learning objectives\n
-Week 9 — Watermarking for LLMs and generative models\n
-Week 10 — Student presentations\n
+Week 1 -- Course overview and foundations of statistical learning\n
+Week 2 -- Information measures: entropy, KL, mutual information\n
+Week 3 -- Concentration inequalities and information bounds\n
+Week 4 -- Information-theoretic generalization bounds\n
+Week 5 -- Privacy in machine learning (DP and accounting)\n
+Week 6 -- Distribution shift and OOD detection\n
+Week 7 -- Domain adaptation and domain generalization\n
+Week 8 -- Fairness and constrained learning objectives\n
+Week 9 -- Watermarking for LLMs and generative models\n
+Week 10 -- Student presentations\n
 
 
 == Notes
