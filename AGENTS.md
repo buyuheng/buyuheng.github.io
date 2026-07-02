@@ -126,4 +126,20 @@ When asked to add a student or project:
 3\. Do not infer personal details.
 
 
+## ORCID maintenance
+
+Do not scrape Google Scholar and do not attempt to log in to ORCID.
+
+Use `refs.bib` as the canonical publication source.
+
+When asked to maintain ORCID:
+
+1. Check whether `yuheng.bib` contains complete metadata.
+2. Generate or update `orcid/orcid_import.bib`.
+3. Prefer DOI, arXiv, ISBN, or PubMed identifiers when available.
+4. Do not invent missing DOIs, venues, dates, or author lists.
+5. Produce a checklist of works that should be imported or checked manually in ORCID.
+6. Keep the Google Scholar and ORCID URLs as external profile links only.
+
+
 
