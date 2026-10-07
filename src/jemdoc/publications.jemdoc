@@ -38,19 +38,8 @@ Code available at [https://github.com/buyuheng/Minimax-KL-divergence-estimator *
 
 == Preprints
 
-- [assets/papers/preprints/position_agent_pricing.pdf Position: AI-Agent Pricing Should Become More Outcome-Dependent: An Economic Perspective]\n
-*Y. Bu*, Y. Ma\n
-Preprint, 2026.
 - [https://arxiv.org/pdf/2606.24025 Information-Theoretic Classifier-Free Guidance with Adaptive Schedule Optimization]\n
 H. Chen, X. Xu, *Y. Bu*\n
-arXiv preprint, 2026.
-
-- [https://arxiv.org/pdf/2606.00392 Detector-Evasive LLM Paraphrasing via Constrained Policy Optimization]\n
-M. Wang, Z. Shen, *Y. Bu*, S. Zou\n
-arXiv preprint, 2026.
-
-- [https://arxiv.org/pdf/2605.29341 WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction]\n
-C. Liu, Y. Yang, S. X. Pu, Y. Liu, L. Long, Y. Guo, N. Chen, Z. Weng, E. Kochkina, S. Kaur, C. Smiley, X. Liu, J. Zou, S. Liu, *Y. Bu*, S. Peng, X. E. Wang\n
 arXiv preprint, 2026.
 
 - [https://arxiv.org/pdf/2605.14271 Auditing Agent Harness Safety]\n
@@ -61,10 +50,6 @@ arXiv preprint, 2026.
 H. He, Y. Liu, Z. Shen, Z. Wang, Y. Mao, *Y. Bu*\n
 arXiv preprint, 2026.
 
-- [https://arxiv.org/pdf/2604.27039 Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling]\n
-Z. Zhang, C. Yang, Z. Xia, Z. Yang, C. Liu, Z. Weng, Y. Liu, H. Chen, J. Pan, C. Zhao, *Y. Bu*, A. Patel, Z. Gan, X. E. Wang\n
-arXiv preprint, 2026.
-
 - [https://arxiv.org/pdf/2509.07123 NestGNN: A Graph Neural Network Framework Generalizing the Nested Logit Model for Travel Mode Choice]\n
 Y. Zhou, Z. Cheng, L. Hu, *Y. Bu*, S. Wang\n
 arXiv preprint, 2025.
@@ -73,20 +58,40 @@ arXiv preprint, 2025.
 Y. Xing, J. Wu, *Y. Bu*, K. Gong\n
 arXiv preprint, 2025.
 
-- [https://arxiv.org/pdf/2502.10673 Dataset Protection via Watermarked Canaries in Retrieval-Augmented LLMs]\n
-Y. Liu, X. Zhao, D. Song, *Y. Bu*\n
-arXiv preprint, 2025. \n
-Short version at ICML 2025 Workshop on Reliable and Responsible Foundation Models, Vancouver, Canada, Jul. 2025.
 == Conference and Workshop Publications
 
 === 2026
 
+- [https://arxiv.org/pdf/2608.29030 Learning to Follow In-Context Watermark Instructions via Self-Distillation]\n
+Y. Liu, T. Chen, X. Zhao, D. Song, *Y. Bu*\n
+Conference on Neural Information Processing Systems (*NeurIPS*), Main Track, Dec. 2026. *(acceptance rate: 25.7%)*\n
+
+- [assets/papers/preprints/position_agent_pricing.pdf Position: AI-Agent Pricing Should Become More Outcome-Dependent: An Economic Perspective]\n
+*Y. Bu*, Y. Ma\n
+Conference on Neural Information Processing Systems (*NeurIPS*), Position Paper Track, Dec. 2026. *(acceptance rate: 22.9%)*\n
+
+- [https://arxiv.org/pdf/2605.29341 WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction]\n
+C. Liu, Y. Yang, S. X. Pu, Y. Liu, L. Long, Y. Guo, N. Chen, Z. Weng, E. Kochkina, S. Kaur, C. Smiley, X. Liu, J. Zou, S. Liu, *Y. Bu*, S. Peng, X. E. Wang\n
+Conference on Neural Information Processing Systems (*NeurIPS*), Evaluations and Datasets Track, Dec. 2026. *(acceptance rate: 25.8%)*\n
+
+- [https://arxiv.org/pdf/2606.00392 Detector-Evasive LLM Paraphrasing via Constrained Policy Optimization]\n
+M. Wang, Z. Shen, *Y. Bu*, S. Zou\n
+Findings of the Association for Computational Linguistics (*EMNLP*), 2026. *(acceptance rate: 29.7%)*\n
+
+- [https://arxiv.org/pdf/2502.10673 Dataset Protection via Watermarked Canaries in Retrieval-Augmented LLMs]\n
+Y. Liu, X. Zhao, D. Song, *Y. Bu*\n
+Findings of the Association for Computational Linguistics (*EMNLP*), 2026. *(acceptance rate: 29.7%)*\n
+Short version at ICML 2025 Workshop on Reliable and Responsible Foundation Models, Vancouver, Canada, Jul. 2025.
+
+- [https://arxiv.org/pdf/2604.27039 Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling]\n
+Z. Zhang, C. Yang, Z. Xia, Z. Yang, C. Liu, Z. Weng, Y. Liu, H. Chen, J. Pan, C. Zhao, *Y. Bu*, A. Patel, Z. Gan, X. E. Wang\n
+Conference on Language Modeling (*COLM*), 2026. *(acceptance rate: 29%)*\n
 
 - [https://arxiv.org/pdf/2602.01075 ConvexBench: Can LLMs Recognize Convex Functions?]\n
 Y. Liu, Y. Huang, Y.-X. Wang, Y. Liang, *Y. Bu*\n
 International Conference on Machine Learning (*ICML*), Seoul, South Korea, Jul. 2026. *(acceptance rate: 27%)*\n
 
-- [https://arxiv.org/pdf/2510.18333 Position: LLM Watermarking Should Align Stakeholders' Incentives for Practical Adoption]\n
+- [https://aclanthology.org/2026.findings-acl.1290/ Position: LLM Watermarking Should Align Stakeholders' Incentives for Practical Adoption]\n
 Y. Liu, X. Zhao, D. Song, G. W. Wornell, *Y. Bu*\n
 Findings of the Association for Computational Linguistics (*ACL*), San Diego, CA, USA, Jul. 2026. *(acceptance rate: 37%)*
 
